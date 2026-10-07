@@ -1,0 +1,33 @@
+{
+  "source": "IDRiD",
+  "classes": {
+    "haemorrhage": [
+      "retinal hemorrhage",
+      "retinal haemorrhage",
+      "retinal bleed"
+    ],
+    "hard_exudate": [
+      "retinal hard exudate",
+      "hard exudate",
+      "retinal hard exudates",
+      "hard exudates"
+    ],
+    "microaneurysm": [
+      "retinal microaneurysm",
+      "retinal microaneurysms",
+      "microaneurysm"
+    ],
+    "optic_disc": [
+      "optic disc",
+      "optic disk",
+      "optic nerve head",
+      "the optic disc"
+    ],
+    "soft_exudate": [
+      "retinal soft exudate",
+      "soft exudate",
+      "cotton wool spot",
+      "retinal soft exudates"
+    ]
+  }
+}

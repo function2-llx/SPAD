@@ -1,0 +1,23 @@
+{
+  "source": "BraTS2023-SSA",
+  "classes": {
+    "ED": [
+      "brain glioma peritumoral edema",
+      "peritumoral brain edema",
+      "vasogenic edema surrounding the tumor",
+      "tumor-associated edema"
+    ],
+    "ET": [
+      "brain glioma enhancing tumor region",
+      "enhancing tumor",
+      "contrast-enhancing tumor region",
+      "contrast-enhancing tumor"
+    ],
+    "NCR": [
+      "brain glioma necrotic tumor core",
+      "necrotic core of the tumor",
+      "tumor necrosis",
+      "necrotic tumor center"
+    ]
+  }
+}

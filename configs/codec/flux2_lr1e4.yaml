@@ -1,0 +1,28 @@
+model: flux2
+pretrained: pretrained/flux2-ae.pt
+depth_tiers:
+  0:
+    tiers: [32, 64, 96]
+    batch_sizes: [18, 9, 6]
+  1:
+    tiers: [16, 32, 48]
+    batch_sizes: [30, 15, 10]
+  2:
+    tiers: [12, 24]
+    batch_sizes: [40, 20]
+  3:
+    tiers: [12]
+    batch_sizes: [40]
+  4:
+    tiers: [6]
+    batch_sizes: [80]
+  null:
+    tiers: [1]
+    batch_sizes: [480]
+steps: 10000
+accum_steps: 4
+lr: 1.0e-4
+grad_clip: 5.0
+warmup_steps: 1000
+log_every: 5
+save_dir: outputs/stage1/flux2-lr1e4

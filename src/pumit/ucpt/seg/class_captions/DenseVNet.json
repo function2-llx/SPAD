@@ -1,0 +1,81 @@
+{
+  "source": "DenseVNet",
+  "classes": {
+    "adrenal_gland_left": [
+      "left adrenal gland",
+      "the left adrenal gland",
+      "left suprarenal gland",
+      "left adrenal"
+    ],
+    "adrenal_gland_right": [
+      "right adrenal gland",
+      "the right adrenal gland",
+      "right suprarenal gland",
+      "right adrenal"
+    ],
+    "aorta": [
+      "aorta",
+      "the aorta"
+    ],
+    "duodenum": [
+      "duodenum",
+      "the duodenum",
+      "duodenal loop",
+      "duodenal segment"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "gallbladder": [
+      "gallbladder",
+      "the gallbladder",
+      "gall bladder",
+      "gallbladder lumen"
+    ],
+    "inferior_vena_cava": [
+      "inferior vena cava",
+      "IVC",
+      "the inferior vena cava"
+    ],
+    "kidney_left": [
+      "left kidney",
+      "the left kidney",
+      "left renal parenchyma"
+    ],
+    "kidney_right": [
+      "right kidney",
+      "the right kidney",
+      "right renal parenchyma"
+    ],
+    "liver": [
+      "liver",
+      "the liver",
+      "hepatic parenchyma",
+      "liver parenchyma"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas",
+      "pancreatic parenchyma",
+      "pancreatic tissue"
+    ],
+    "portal_vein_and_splenic_vein": [
+      "portal vein and splenic vein",
+      "the portal vein and splenic vein",
+      "portal and splenic veins",
+      "portal venous system"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen",
+      "splenic parenchyma",
+      "splenic tissue"
+    ],
+    "stomach": [
+      "stomach",
+      "the stomach",
+      "gastric lumen"
+    ]
+  }
+}

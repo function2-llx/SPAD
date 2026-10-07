@@ -1,0 +1,26 @@
+{
+  "source": "KiPA22",
+  "classes": {
+    "kidney": [
+      "kidney",
+      "the kidney",
+      "whole kidney"
+    ],
+    "renal artery": [
+      "renal artery",
+      "the renal artery",
+      "kidney artery"
+    ],
+    "renal vein": [
+      "renal vein",
+      "the renal vein",
+      "kidney vein"
+    ],
+    "tumor": [
+      "kidney tumor",
+      "renal tumor",
+      "kidney mass",
+      "renal mass"
+    ]
+  }
+}

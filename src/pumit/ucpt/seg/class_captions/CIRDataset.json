@@ -1,0 +1,10 @@
+{
+  "source": "CIRDataset",
+  "classes": {
+    "nodule": [
+      "lung nodule",
+      "pulmonary nodule",
+      "nodule"
+    ]
+  }
+}

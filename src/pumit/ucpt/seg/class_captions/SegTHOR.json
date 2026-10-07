@@ -1,0 +1,23 @@
+{
+  "source": "SegTHOR",
+  "classes": {
+    "aorta": [
+      "aorta",
+      "the aorta",
+      "thoracic aorta"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "heart": [
+      "heart",
+      "the heart",
+      "whole heart"
+    ],
+    "trachea": [
+      "trachea",
+      "the trachea"
+    ]
+  }
+}

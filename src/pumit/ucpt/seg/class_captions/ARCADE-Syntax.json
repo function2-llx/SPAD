@@ -1,0 +1,146 @@
+{
+  "source": "ARCADE-Syntax",
+  "classes": {
+    "seg_1": [
+      "proximal right coronary artery",
+      "proximal RCA",
+      "proximal segment of the right coronary artery",
+      "RCA proximal segment"
+    ],
+    "seg_10": [
+      "second diagonal branch",
+      "second diagonal artery",
+      "D2",
+      "second diagonal"
+    ],
+    "seg_10a": [
+      "second diagonal branch a",
+      "second diagonal side branch a",
+      "D2a"
+    ],
+    "seg_11": [
+      "proximal left circumflex artery",
+      "proximal LCX",
+      "proximal segment of the left circumflex artery",
+      "LCX proximal segment"
+    ],
+    "seg_12": [
+      "first obtuse marginal branch",
+      "first obtuse marginal artery",
+      "OM1",
+      "first obtuse marginal"
+    ],
+    "seg_12a": [
+      "first obtuse marginal branch a",
+      "first obtuse marginal side branch a",
+      "OM1a"
+    ],
+    "seg_12b": [
+      "first obtuse marginal branch b",
+      "first obtuse marginal side branch b",
+      "OM1b"
+    ],
+    "seg_13": [
+      "distal left circumflex artery",
+      "distal LCX",
+      "distal segment of the left circumflex artery",
+      "LCX distal segment"
+    ],
+    "seg_14": [
+      "second obtuse marginal branch",
+      "second obtuse marginal artery",
+      "OM2",
+      "second obtuse marginal"
+    ],
+    "seg_14a": [
+      "second obtuse marginal branch a",
+      "second obtuse marginal side branch a",
+      "OM2a"
+    ],
+    "seg_14b": [
+      "second obtuse marginal branch b",
+      "second obtuse marginal side branch b",
+      "OM2b"
+    ],
+    "seg_15": [
+      "posterolateral branch",
+      "PLB",
+      "posterolateral artery",
+      "posterolateral coronary branch"
+    ],
+    "seg_16": [
+      "left circumflex posterolateral branch",
+      "LCX posterolateral branch",
+      "posterolateral branch of the left circumflex",
+      "circumflex posterolateral branch"
+    ],
+    "seg_16a": [
+      "posterolateral branch 16a",
+      "PLB 16a",
+      "posterolateral side branch a"
+    ],
+    "seg_16b": [
+      "posterolateral branch 16b",
+      "PLB 16b",
+      "posterolateral side branch b"
+    ],
+    "seg_16c": [
+      "posterolateral branch 16c",
+      "PLB 16c",
+      "posterolateral side branch c"
+    ],
+    "seg_2": [
+      "mid right coronary artery",
+      "mid RCA",
+      "mid segment of the right coronary artery",
+      "RCA mid segment"
+    ],
+    "seg_3": [
+      "distal right coronary artery",
+      "distal RCA",
+      "distal segment of the right coronary artery",
+      "RCA distal segment"
+    ],
+    "seg_4": [
+      "posterior descending artery",
+      "PDA",
+      "posterior descending coronary artery",
+      "posterior interventricular artery"
+    ],
+    "seg_5": [
+      "left main coronary artery",
+      "left main",
+      "LMCA",
+      "left main stem"
+    ],
+    "seg_6": [
+      "proximal left anterior descending artery",
+      "proximal LAD",
+      "proximal segment of the left anterior descending artery",
+      "LAD proximal segment"
+    ],
+    "seg_7": [
+      "mid left anterior descending artery",
+      "mid LAD",
+      "mid segment of the left anterior descending artery",
+      "LAD mid segment"
+    ],
+    "seg_8": [
+      "apical left anterior descending artery",
+      "apical LAD",
+      "distal LAD",
+      "apical segment of the left anterior descending artery"
+    ],
+    "seg_9": [
+      "first diagonal branch",
+      "first diagonal artery",
+      "D1",
+      "first diagonal"
+    ],
+    "seg_9a": [
+      "first diagonal branch a",
+      "first diagonal side branch a",
+      "D1a"
+    ]
+  }
+}

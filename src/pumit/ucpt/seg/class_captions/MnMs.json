@@ -1,0 +1,23 @@
+{
+  "source": "MnMs",
+  "classes": {
+    "LV": [
+      "left ventricular cavity",
+      "left ventricle cavity",
+      "LV cavity",
+      "left ventricular blood pool"
+    ],
+    "RV": [
+      "right ventricular cavity",
+      "right ventricle cavity",
+      "RV cavity",
+      "right ventricular blood pool"
+    ],
+    "myocardium": [
+      "left ventricular myocardium",
+      "left ventricle myocardium",
+      "LV myocardium",
+      "left ventricular myocardial wall"
+    ]
+  }
+}

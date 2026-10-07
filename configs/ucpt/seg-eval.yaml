@@ -1,0 +1,9 @@
+# Full-volume sliding-window evaluation for UCPT segmentation checkpoints.
+panel: record-heldout
+seed: 20260725
+max_cases: null
+k_neg: 8
+overlap: 0.25
+sw_batch_size: 16
+interpolation_order: stitch-then-interpolate
+generation_config: configs/ucpt/gen.yaml

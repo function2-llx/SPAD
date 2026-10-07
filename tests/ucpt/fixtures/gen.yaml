@@ -1,0 +1,26 @@
+# Test-only UCPT generation config: augmentation / DA / class-sampling knobs.
+#
+# Mirrors configs/ucpt/gen.yaml with fg_coords disabled, so tests don't require
+# per-dataset fg-coord sidecars (FgCoordCache raises if index.json is absent).
+# Consumed by tests/ucpt/test_packing.py (generate_stream) and
+# tests/ucpt/test_sample_stream.py (_load_generation_globals).
+
+size_xy_choices: [128, 192, 256, 320, 384]
+size_xy_choices_2d: [128, 192, 256, 320, 384, 448, 512]
+scale_xy: [0.75, 1.3333333333333333]
+labeled_size_xy_max: 256
+labeled_size_xy_max_2d: 384
+max_depth_per_da:
+  0: 128
+  1: 64
+  2: 32
+  3: 24
+  4: 12
+
+seg_positive_queries: 16
+seg_negative_queries: 8
+seg_min_positive_voxels: 1
+seg_mask_batch_size: 2
+
+fg_coords: true
+force_fraction: 0.5

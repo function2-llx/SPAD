@@ -1,0 +1,23 @@
+{
+  "source": "BraTS2023-MEN",
+  "classes": {
+    "ED": [
+      "meningioma peritumoral edema",
+      "peritumoral edema of meningioma",
+      "meningioma-associated edema",
+      "peritumoral edema"
+    ],
+    "ET": [
+      "meningioma enhancing tumor region",
+      "enhancing meningioma region",
+      "contrast-enhancing meningioma",
+      "meningioma enhancing tumor"
+    ],
+    "NETC": [
+      "meningioma non-enhancing tumor core",
+      "non-enhancing meningioma tumor core",
+      "non-enhancing tumor core of meningioma",
+      "non-enhancing tumor core"
+    ]
+  }
+}

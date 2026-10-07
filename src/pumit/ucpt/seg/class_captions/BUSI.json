@@ -1,0 +1,9 @@
+{
+  "source": "BUSI",
+  "classes": {
+    "tumor": [
+      "breast tumor",
+      "breast mass"
+    ]
+  }
+}

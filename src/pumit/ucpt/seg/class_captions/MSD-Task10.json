@@ -1,0 +1,11 @@
+{
+  "source": "MSD-Task10",
+  "classes": {
+    "colon cancer primaries": [
+      "primary colon cancer",
+      "colon cancer",
+      "primary colon tumor",
+      "colon cancer primary"
+    ]
+  }
+}

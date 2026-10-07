@@ -1,0 +1,14 @@
+{
+  "source": "MSD-Task07",
+  "classes": {
+    "cancer": [
+      "pancreatic tumor",
+      "pancreatic cancer",
+      "pancreatic mass"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas"
+    ]
+  }
+}

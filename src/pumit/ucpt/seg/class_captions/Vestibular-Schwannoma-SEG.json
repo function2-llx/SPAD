@@ -1,0 +1,15 @@
+{
+  "source": "Vestibular-Schwannoma-SEG",
+  "classes": {
+    "cochlea": [
+      "cochlea",
+      "the cochlea",
+      "inner ear cochlea"
+    ],
+    "vestibular_schwannoma": [
+      "vestibular schwannoma",
+      "acoustic neuroma",
+      "acoustic schwannoma"
+    ]
+  }
+}

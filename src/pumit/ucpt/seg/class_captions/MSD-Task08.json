@@ -1,0 +1,17 @@
+{
+  "source": "MSD-Task08",
+  "classes": {
+    "Tumour": [
+      "liver tumor",
+      "hepatic mass",
+      "tumor",
+      "hepatic tumor"
+    ],
+    "Vessel": [
+      "hepatic vessel",
+      "liver vessel",
+      "hepatic vasculature",
+      "vessel"
+    ]
+  }
+}

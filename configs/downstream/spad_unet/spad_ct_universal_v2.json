@@ -1,0 +1,110 @@
+{
+  "ontology_status": "frozen",
+  "reference": "PUMIT SPAD CT Universal v2 suite approved on 2026-08-05: replace BTCV with AMOS CT-only, DenseVNet with WORD, and KiTS19 with KiTS23",
+  "fold": 0,
+  "num_updates": 250000,
+  "universal_dataset_id": 591,
+  "universal_dataset_name": "Dataset591_SPADCTUniversalV2",
+  "datasets": {
+    "503": {
+      "source_task": "Task003_Liver",
+      "expected_num_training": 131,
+      "regions": ["liver", "tumor"]
+    },
+    "506": {
+      "source_task": "Task006_Lung",
+      "expected_num_training": 63,
+      "regions": ["lung_nodule"]
+    },
+    "507": {
+      "source_task": "Task007_Pancreas",
+      "expected_num_training": 281,
+      "regions": ["pancreas", "tumor"]
+    },
+    "508": {
+      "source_task": "Task008_HepaticVessel",
+      "expected_num_training": 303,
+      "regions": ["vessel", "tumor"]
+    },
+    "509": {
+      "source_task": "Task009_Spleen",
+      "expected_num_training": 41,
+      "regions": ["spleen"]
+    },
+    "510": {
+      "source_task": "Task010_Colon",
+      "expected_num_training": 126,
+      "regions": ["colon_cancer"]
+    },
+    "718": {
+      "source_task": "AMOS2022_postChallenge_task1_CT",
+      "expected_num_training": 300,
+      "regions": [
+        "spleen",
+        "right kidney",
+        "left kidney",
+        "gallbladder",
+        "esophagus",
+        "liver",
+        "stomach",
+        "aorta",
+        "inferior vena cava",
+        "pancreas",
+        "right adrenal gland",
+        "left adrenal gland",
+        "duodenum",
+        "bladder",
+        "prostate/uterus"
+      ]
+    },
+    "725": {
+      "source_task": "WORD",
+      "expected_num_training": 120,
+      "regions": [
+        "liver",
+        "spleen",
+        "left_kidney",
+        "right_kidney",
+        "stomach",
+        "gallbladder",
+        "esophagus",
+        "pancreas",
+        "duodenum",
+        "colon",
+        "intestine",
+        "adrenal",
+        "rectum",
+        "bladder",
+        "Head_of_femur_L",
+        "Head_of_femur_R"
+      ]
+    },
+    "555": {
+      "source_task": "Task055_SegTHOR",
+      "expected_num_training": 40,
+      "regions": ["aorta", "esophagus", "heart", "trachea"]
+    },
+    "562": {
+      "source_task": "Task062_NIHPancreas",
+      "expected_num_training": 80,
+      "regions": ["pancreas"]
+    },
+    "220": {
+      "source_task": "KiTS2023",
+      "expected_num_training": 489,
+      "regions": ["kidney", "masses", "tumor"]
+    },
+    "518": {
+      "source_task": "Task018_PelvicOrganSegmentation",
+      "expected_num_training": 30,
+      "regions": ["bladder", "uterus", "rectum", "small_bowel"]
+    }
+  },
+  "excluded_cases": {
+    "562": {
+      "case_identifiers": ["Pancreas-CT_0025", "Pancreas-CT_0070"],
+      "reason": "These two NIH Pancreas cases were explicitly excluded before preprocessing"
+    }
+  },
+  "shared_regions": {}
+}

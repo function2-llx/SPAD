@@ -1,0 +1,84 @@
+{
+  "source": "MediaStruct",
+  "classes": {
+    "aortic_arch": [
+      "aortic arch",
+      "the aortic arch",
+      "arch of the aorta",
+      "transverse aortic arch"
+    ],
+    "ascending_aorta": [
+      "ascending aorta",
+      "the ascending aorta",
+      "ascending segment of the aorta"
+    ],
+    "azygos": [
+      "azygos vein",
+      "the azygos vein",
+      "azygos"
+    ],
+    "brachiocephalic_trunk": [
+      "brachiocephalic trunk",
+      "the brachiocephalic trunk",
+      "brachiocephalic artery",
+      "innominate artery"
+    ],
+    "brachiocephalic_vein_L": [
+      "left brachiocephalic vein",
+      "the left brachiocephalic vein",
+      "left innominate vein"
+    ],
+    "brachiocephalic_vein_R": [
+      "right brachiocephalic vein",
+      "the right brachiocephalic vein",
+      "right innominate vein"
+    ],
+    "common_carotid_artery_L": [
+      "left common carotid artery",
+      "the left common carotid artery",
+      "left CCA"
+    ],
+    "common_carotid_artery_R": [
+      "right common carotid artery",
+      "the right common carotid artery",
+      "right CCA"
+    ],
+    "descending_aorta": [
+      "descending aorta",
+      "the descending aorta",
+      "descending thoracic aorta"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus",
+      "esophageal wall"
+    ],
+    "heart": [
+      "heart",
+      "the heart"
+    ],
+    "subclavian_artery_L": [
+      "left subclavian artery",
+      "the left subclavian artery"
+    ],
+    "subclavian_artery_R": [
+      "right subclavian artery",
+      "the right subclavian artery"
+    ],
+    "superior_vena_cava": [
+      "superior vena cava",
+      "the superior vena cava",
+      "SVC"
+    ],
+    "thyroid": [
+      "thyroid gland",
+      "the thyroid gland",
+      "thyroid"
+    ],
+    "trachea": [
+      "trachea",
+      "the trachea",
+      "tracheal lumen"
+    ]
+  }
+}

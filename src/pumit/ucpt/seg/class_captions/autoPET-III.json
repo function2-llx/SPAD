@@ -1,0 +1,10 @@
+{
+  "source": "autoPET-III",
+  "classes": {
+    "tumor": [
+      "PET-avid tumor lesion",
+      "radiotracer-avid tumor lesion",
+      "tracer-avid tumor lesion"
+    ]
+  }
+}

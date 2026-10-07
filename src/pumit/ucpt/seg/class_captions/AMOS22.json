@@ -1,0 +1,72 @@
+{
+  "source": "AMOS22",
+  "classes": {
+    "arota": [
+      "aorta",
+      "the aorta"
+    ],
+    "bladder": [
+      "urinary bladder",
+      "bladder",
+      "the urinary bladder",
+      "the bladder"
+    ],
+    "duodenum": [
+      "duodenum",
+      "the duodenum"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "gall bladder": [
+      "gallbladder",
+      "gall bladder",
+      "the gallbladder"
+    ],
+    "left adrenal gland": [
+      "left adrenal gland",
+      "the left adrenal gland",
+      "left adrenal"
+    ],
+    "left kidney": [
+      "left kidney",
+      "the left kidney"
+    ],
+    "liver": [
+      "liver",
+      "the liver"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas"
+    ],
+    "postcava": [
+      "inferior vena cava",
+      "IVC",
+      "the inferior vena cava"
+    ],
+    "prostate/uterus": [
+      "prostate or uterus",
+      "the prostate or uterus",
+      "prostate or uterus region"
+    ],
+    "right adrenal gland": [
+      "right adrenal gland",
+      "the right adrenal gland",
+      "right adrenal"
+    ],
+    "right kidney": [
+      "right kidney",
+      "the right kidney"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen"
+    ],
+    "stomach": [
+      "stomach",
+      "the stomach"
+    ]
+  }
+}

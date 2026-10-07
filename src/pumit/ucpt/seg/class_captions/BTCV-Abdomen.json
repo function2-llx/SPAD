@@ -1,0 +1,64 @@
+{
+  "source": "BTCV-Abdomen",
+  "classes": {
+    "aorta": [
+      "aorta",
+      "the aorta"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "gallbladder": [
+      "gallbladder",
+      "the gallbladder",
+      "gall bladder"
+    ],
+    "inferior vena cava": [
+      "inferior vena cava",
+      "IVC",
+      "the inferior vena cava"
+    ],
+    "left adrenal gland": [
+      "left adrenal gland",
+      "the left adrenal gland",
+      "left suprarenal gland"
+    ],
+    "left kidney": [
+      "left kidney",
+      "the left kidney"
+    ],
+    "liver": [
+      "liver",
+      "the liver",
+      "hepatic parenchyma"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas",
+      "pancreatic tissue"
+    ],
+    "portal vein and splenic vein": [
+      "portal vein and splenic vein",
+      "the portal vein and splenic vein",
+      "portal and splenic veins"
+    ],
+    "right adrenal gland": [
+      "right adrenal gland",
+      "the right adrenal gland",
+      "right suprarenal gland"
+    ],
+    "right kidney": [
+      "right kidney",
+      "the right kidney"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen"
+    ],
+    "stomach": [
+      "stomach",
+      "the stomach"
+    ]
+  }
+}

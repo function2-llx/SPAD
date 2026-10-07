@@ -1,0 +1,10 @@
+{
+  "source": "Pancreas-CT",
+  "classes": {
+    "pancreas": [
+      "pancreas",
+      "the pancreas",
+      "pancreatic tissue"
+    ]
+  }
+}

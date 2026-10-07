@@ -1,0 +1,222 @@
+{
+  "source": "TotalSegmentator-MRI",
+  "classes": {
+    "adrenal_gland_left": [
+      "left adrenal gland",
+      "left adrenal",
+      "left suprarenal gland"
+    ],
+    "adrenal_gland_right": [
+      "right adrenal gland",
+      "right adrenal",
+      "right suprarenal gland"
+    ],
+    "aorta": [
+      "aorta",
+      "the aorta"
+    ],
+    "autochthon_left": [
+      "left autochthonous back muscles",
+      "left erector spinae",
+      "left paravertebral muscles"
+    ],
+    "autochthon_right": [
+      "right autochthonous back muscles",
+      "right erector spinae",
+      "right paravertebral muscles"
+    ],
+    "brain": [
+      "brain",
+      "the brain"
+    ],
+    "clavicula_left": [
+      "left clavicle",
+      "left collarbone"
+    ],
+    "clavicula_right": [
+      "right clavicle",
+      "right collarbone"
+    ],
+    "colon": [
+      "colon",
+      "the colon",
+      "large bowel"
+    ],
+    "duodenum": [
+      "duodenum",
+      "the duodenum"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "femur_left": [
+      "left femur",
+      "left thigh bone",
+      "left femoral bone"
+    ],
+    "femur_right": [
+      "right femur",
+      "right thigh bone",
+      "right femoral bone"
+    ],
+    "gallbladder": [
+      "gallbladder",
+      "the gallbladder"
+    ],
+    "gluteus_maximus_left": [
+      "left gluteus maximus",
+      "left gluteus maximus muscle",
+      "left glute max"
+    ],
+    "gluteus_maximus_right": [
+      "right gluteus maximus",
+      "right gluteus maximus muscle",
+      "right glute max"
+    ],
+    "gluteus_medius_left": [
+      "left gluteus medius",
+      "left gluteus medius muscle",
+      "left glute med"
+    ],
+    "gluteus_medius_right": [
+      "right gluteus medius",
+      "right gluteus medius muscle",
+      "right glute med"
+    ],
+    "gluteus_minimus_left": [
+      "left gluteus minimus",
+      "left gluteus minimus muscle",
+      "left glute min"
+    ],
+    "gluteus_minimus_right": [
+      "right gluteus minimus",
+      "right gluteus minimus muscle",
+      "right glute min"
+    ],
+    "heart": [
+      "heart",
+      "the heart"
+    ],
+    "hip_left": [
+      "left hip",
+      "left hip joint"
+    ],
+    "hip_right": [
+      "right hip",
+      "right hip joint"
+    ],
+    "humerus_left": [
+      "left humerus",
+      "left upper arm bone"
+    ],
+    "humerus_right": [
+      "right humerus",
+      "right upper arm bone"
+    ],
+    "iliac_artery_left": [
+      "left iliac artery"
+    ],
+    "iliac_artery_right": [
+      "right iliac artery"
+    ],
+    "iliac_vena_left": [
+      "left iliac vein"
+    ],
+    "iliac_vena_right": [
+      "right iliac vein"
+    ],
+    "iliopsoas_left": [
+      "left iliopsoas",
+      "left iliopsoas muscle"
+    ],
+    "iliopsoas_right": [
+      "right iliopsoas",
+      "right iliopsoas muscle"
+    ],
+    "inferior_vena_cava": [
+      "inferior vena cava",
+      "IVC",
+      "the inferior vena cava"
+    ],
+    "intervertebral_discs": [
+      "intervertebral discs",
+      "intervertebral disks",
+      "IVDs",
+      "spinal discs"
+    ],
+    "kidney_left": [
+      "left kidney",
+      "the left kidney"
+    ],
+    "kidney_right": [
+      "right kidney",
+      "the right kidney"
+    ],
+    "liver": [
+      "liver",
+      "the liver"
+    ],
+    "lung_left": [
+      "left lung",
+      "the left lung"
+    ],
+    "lung_right": [
+      "right lung",
+      "the right lung"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas"
+    ],
+    "portal_vein_and_splenic_vein": [
+      "portal vein and splenic vein",
+      "the portal vein and splenic vein",
+      "portal and splenic veins"
+    ],
+    "prostate": [
+      "prostate",
+      "the prostate",
+      "prostate gland"
+    ],
+    "sacrum": [
+      "sacrum",
+      "the sacrum",
+      "sacral bone"
+    ],
+    "scapula_left": [
+      "left scapula",
+      "left shoulder blade"
+    ],
+    "scapula_right": [
+      "right scapula",
+      "right shoulder blade"
+    ],
+    "small_bowel": [
+      "small bowel",
+      "small intestine",
+      "the small bowel"
+    ],
+    "spinal_cord": [
+      "spinal cord",
+      "the spinal cord"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen"
+    ],
+    "stomach": [
+      "stomach",
+      "the stomach"
+    ],
+    "urinary_bladder": [
+      "urinary bladder",
+      "bladder",
+      "the urinary bladder"
+    ],
+    "vertebrae": [
+      "vertebrae",
+      "all vertebrae"
+    ]
+  }
+}

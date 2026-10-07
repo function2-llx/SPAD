@@ -1,0 +1,11 @@
+{
+  "source": "CHASE_DB1",
+  "classes": {
+    "vessel": [
+      "retinal vessel",
+      "retinal blood vessel",
+      "fundus blood vessel",
+      "retinal vasculature"
+    ]
+  }
+}

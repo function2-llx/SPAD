@@ -1,0 +1,41 @@
+{
+  "source": "FETA",
+  "classes": {
+    "brainstem": [
+      "brainstem",
+      "brain stem",
+      "the brainstem"
+    ],
+    "cerebellum": [
+      "cerebellum",
+      "the cerebellum"
+    ],
+    "cerebrospinal fluid": [
+      "cerebrospinal fluid",
+      "CSF",
+      "the cerebrospinal fluid"
+    ],
+    "deep grey matter": [
+      "deep gray matter",
+      "subcortical gray matter",
+      "deep grey matter",
+      "the deep gray matter"
+    ],
+    "grey matter": [
+      "cortical gray matter",
+      "cortical grey matter",
+      "the cortical gray matter"
+    ],
+    "ventricles": [
+      "cerebral ventricles",
+      "brain ventricles",
+      "the cerebral ventricles",
+      "ventricular system"
+    ],
+    "white matter": [
+      "white matter",
+      "the white matter",
+      "cerebral white matter"
+    ]
+  }
+}

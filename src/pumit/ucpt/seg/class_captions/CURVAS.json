@@ -1,0 +1,17 @@
+{
+  "source": "CURVAS",
+  "classes": {
+    "kidney": [
+      "kidney",
+      "the kidney"
+    ],
+    "liver": [
+      "liver",
+      "the liver"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas"
+    ]
+  }
+}

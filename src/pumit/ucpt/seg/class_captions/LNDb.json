@@ -1,0 +1,10 @@
+{
+  "source": "LNDb",
+  "classes": {
+    "lung_nodule": [
+      "lung nodule",
+      "pulmonary nodule",
+      "nodule"
+    ]
+  }
+}

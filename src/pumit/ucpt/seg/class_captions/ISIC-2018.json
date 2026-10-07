@@ -1,0 +1,11 @@
+{
+  "source": "ISIC-2018",
+  "classes": {
+    "lesion": [
+      "skin lesion",
+      "cutaneous lesion",
+      "the skin lesion",
+      "lesion"
+    ]
+  }
+}

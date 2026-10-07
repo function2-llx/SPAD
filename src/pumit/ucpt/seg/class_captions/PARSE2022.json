@@ -1,0 +1,10 @@
+{
+  "source": "PARSE2022",
+  "classes": {
+    "pulmonary_artery": [
+      "pulmonary artery",
+      "PA",
+      "the pulmonary artery"
+    ]
+  }
+}

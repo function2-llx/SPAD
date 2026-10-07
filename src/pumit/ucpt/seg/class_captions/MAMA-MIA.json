@@ -1,0 +1,11 @@
+{
+  "source": "MAMA-MIA",
+  "classes": {
+    "breast": [
+      "breast tumor",
+      "breast mass",
+      "breast lesion",
+      "mammary tumor"
+    ]
+  }
+}

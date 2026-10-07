@@ -1,0 +1,24 @@
+{
+  "source": "LUNA16",
+  "classes": {
+    "left_lung": [
+      "left lung",
+      "the left lung"
+    ],
+    "lung": [
+      "lung",
+      "the lung",
+      "lungs",
+      "the lungs"
+    ],
+    "right_lung": [
+      "right lung",
+      "the right lung"
+    ],
+    "trachea": [
+      "trachea",
+      "the trachea",
+      "windpipe"
+    ]
+  }
+}

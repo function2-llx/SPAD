@@ -1,0 +1,12 @@
+{
+  "source": "QUBIQ2021",
+  "classes": {
+    "brain_growth_fetal_brain": ["fetal brain", "prenatal brain", "developing fetal brain", "fetal brain tissue"],
+    "brain_tumor_whole_tumor": ["whole brain tumor", "whole tumor region", "entire brain tumor", "complete tumor extent"],
+    "kidney_kidney": ["kidney", "renal organ", "kidney anatomy", "renal tissue"],
+    "pancreas_pancreas": ["pancreas", "pancreatic organ", "pancreatic tissue", "whole pancreas"],
+    "pancreatic_lesion_pancreatic_lesion": ["pancreatic lesion", "lesion in the pancreas", "pancreas lesion", "pancreatic abnormality"],
+    "prostate_central_gland": ["central prostate gland", "central gland of the prostate", "prostate central gland", "central prostatic region"],
+    "prostate_prostate_gland": ["whole prostate gland", "prostate gland", "entire prostate", "prostate anatomy"]
+  }
+}

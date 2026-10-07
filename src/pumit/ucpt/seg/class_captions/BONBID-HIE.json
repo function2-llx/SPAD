@@ -1,0 +1,11 @@
+{
+  "source": "BONBID-HIE",
+  "classes": {
+    "HIE lesion": [
+      "hypoxic-ischemic encephalopathy lesion",
+      "HIE lesion",
+      "hypoxic-ischemic brain lesion",
+      "neonatal hypoxic-ischemic lesion"
+    ]
+  }
+}

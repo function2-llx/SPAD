@@ -1,0 +1,131 @@
+{
+  "source": "AbdomenAtlas3.0",
+  "classes": {
+    "adrenal_gland_left": [
+      "left adrenal gland"
+    ],
+    "adrenal_gland_right": [
+      "right adrenal gland"
+    ],
+    "aorta": [
+      "aorta"
+    ],
+    "bladder": [
+      "urinary bladder"
+    ],
+    "celiac_trunk": [
+      "celiac trunk"
+    ],
+    "colon": [
+      "colon"
+    ],
+    "common_bile_duct": [
+      "common bile duct"
+    ],
+    "duodenum": [
+      "duodenum"
+    ],
+    "esophagus": [
+      "esophagus"
+    ],
+    "femur_left": [
+      "left femur"
+    ],
+    "femur_right": [
+      "right femur"
+    ],
+    "gall_bladder": [
+      "gallbladder"
+    ],
+    "hepatic_vessel": [
+      "hepatic vessel"
+    ],
+    "intestine": [
+      "small bowel"
+    ],
+    "kidney_left": [
+      "left kidney"
+    ],
+    "kidney_lesion": [
+      "kidney lesion"
+    ],
+    "kidney_right": [
+      "right kidney"
+    ],
+    "liver": [
+      "liver"
+    ],
+    "liver_lesion": [
+      "liver lesion"
+    ],
+    "liver_segment_1": [
+      "liver couinaud segment 1"
+    ],
+    "liver_segment_2": [
+      "liver couinaud segment 2"
+    ],
+    "liver_segment_3": [
+      "liver couinaud segment 3"
+    ],
+    "liver_segment_4": [
+      "liver couinaud segment 4"
+    ],
+    "liver_segment_5": [
+      "liver couinaud segment 5"
+    ],
+    "liver_segment_6": [
+      "liver couinaud segment 6"
+    ],
+    "liver_segment_7": [
+      "liver couinaud segment 7"
+    ],
+    "liver_segment_8": [
+      "liver couinaud segment 8"
+    ],
+    "lung_left": [
+      "left lung"
+    ],
+    "lung_right": [
+      "right lung"
+    ],
+    "pancreas": [
+      "pancreas"
+    ],
+    "pancreas_body": [
+      "pancreas body"
+    ],
+    "pancreas_head": [
+      "pancreas head"
+    ],
+    "pancreas_tail": [
+      "pancreas tail"
+    ],
+    "pancreatic_lesion": [
+      "pancreatic lesion"
+    ],
+    "portal_vein_and_splenic_vein": [
+      "portal vein and splenic vein"
+    ],
+    "postcava": [
+      "inferior vena cava"
+    ],
+    "prostate": [
+      "prostate"
+    ],
+    "rectum": [
+      "rectum"
+    ],
+    "spleen": [
+      "spleen"
+    ],
+    "stomach": [
+      "stomach"
+    ],
+    "superior_mesenteric_artery": [
+      "superior mesenteric artery"
+    ],
+    "veins": [
+      "veins"
+    ]
+  }
+}

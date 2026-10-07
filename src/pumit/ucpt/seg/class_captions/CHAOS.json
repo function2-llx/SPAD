@@ -1,0 +1,26 @@
+{
+  "source": "CHAOS",
+  "classes": {
+    "left_kidney": [
+      "left kidney",
+      "the left kidney",
+      "kidney on the left"
+    ],
+    "liver": [
+      "liver",
+      "the liver",
+      "hepatic parenchyma",
+      "liver parenchyma"
+    ],
+    "right_kidney": [
+      "right kidney",
+      "the right kidney",
+      "kidney on the right"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen",
+      "splenic parenchyma"
+    ]
+  }
+}

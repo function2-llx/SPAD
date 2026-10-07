@@ -1,0 +1,11 @@
+{
+  "source": "COVID-19-20",
+  "classes": {
+    "covid_lesion": [
+      "COVID-19 lung lesion",
+      "COVID-19 pulmonary lesion",
+      "COVID-19 pneumonia lesion",
+      "lung lesion from COVID-19"
+    ]
+  }
+}

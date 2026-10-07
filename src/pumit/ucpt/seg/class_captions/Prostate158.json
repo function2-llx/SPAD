@@ -1,0 +1,23 @@
+{
+  "source": "Prostate158",
+  "classes": {
+    "prostate_cancer": [
+      "prostate cancer",
+      "prostate carcinoma",
+      "prostate tumor",
+      "prostate malignancy"
+    ],
+    "prostate_peripheral_zone": [
+      "prostate peripheral zone",
+      "peripheral zone of the prostate",
+      "prostate PZ",
+      "the prostate peripheral zone"
+    ],
+    "prostate_transition_zone": [
+      "prostate transition zone",
+      "transition zone of the prostate",
+      "prostate TZ",
+      "the prostate transition zone"
+    ]
+  }
+}

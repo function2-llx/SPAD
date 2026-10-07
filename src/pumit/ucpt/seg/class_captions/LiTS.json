@@ -1,0 +1,14 @@
+{
+  "source": "LiTS",
+  "classes": {
+    "liver": [
+      "liver",
+      "the liver"
+    ],
+    "liver_tumor": [
+      "liver tumor",
+      "hepatic tumor",
+      "liver mass"
+    ]
+  }
+}

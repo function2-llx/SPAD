@@ -1,0 +1,82 @@
+{
+  "source": "TopCoW",
+  "classes": {
+    "ACA_L": [
+      "left anterior cerebral artery",
+      "left ACA",
+      "the left anterior cerebral artery",
+      "left ACA segment"
+    ],
+    "ACA_R": [
+      "right anterior cerebral artery",
+      "right ACA",
+      "the right anterior cerebral artery",
+      "right ACA segment"
+    ],
+    "Acom": [
+      "anterior communicating artery",
+      "ACom",
+      "the anterior communicating artery",
+      "anterior communicating artery of the circle of Willis"
+    ],
+    "BA": [
+      "basilar artery",
+      "BA",
+      "the basilar artery"
+    ],
+    "ICA_L": [
+      "left internal carotid artery",
+      "left ICA",
+      "the left internal carotid artery",
+      "left ICA segment"
+    ],
+    "ICA_R": [
+      "right internal carotid artery",
+      "right ICA",
+      "the right internal carotid artery",
+      "right ICA segment"
+    ],
+    "MCA_L": [
+      "left middle cerebral artery",
+      "left MCA",
+      "the left middle cerebral artery",
+      "left MCA segment"
+    ],
+    "MCA_R": [
+      "right middle cerebral artery",
+      "right MCA",
+      "the right middle cerebral artery",
+      "right MCA segment"
+    ],
+    "PCA_L": [
+      "left posterior cerebral artery",
+      "left PCA",
+      "the left posterior cerebral artery",
+      "left PCA segment"
+    ],
+    "PCA_R": [
+      "right posterior cerebral artery",
+      "right PCA",
+      "the right posterior cerebral artery",
+      "right PCA segment"
+    ],
+    "Pcom_L": [
+      "left posterior communicating artery",
+      "left PCom",
+      "the left posterior communicating artery",
+      "left PCoA"
+    ],
+    "Pcom_R": [
+      "right posterior communicating artery",
+      "right PCom",
+      "the right posterior communicating artery",
+      "right PCoA"
+    ],
+    "third_A2": [
+      "third A2 segment of anterior cerebral artery",
+      "accessory A2 segment of the anterior cerebral artery",
+      "third A2 segment",
+      "accessory anterior cerebral artery A2 segment"
+    ]
+  }
+}

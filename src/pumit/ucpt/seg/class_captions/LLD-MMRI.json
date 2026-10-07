@@ -1,0 +1,10 @@
+{
+  "source": "LLD-MMRI",
+  "classes": {
+    "liver_lesion": [
+      "liver lesion",
+      "hepatic lesion",
+      "focal liver lesion"
+    ]
+  }
+}

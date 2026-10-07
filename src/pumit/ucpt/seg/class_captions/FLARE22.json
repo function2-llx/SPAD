@@ -1,0 +1,65 @@
+{
+  "source": "FLARE22",
+  "classes": {
+    "aorta": [
+      "aorta",
+      "the aorta"
+    ],
+    "duodenum": [
+      "duodenum",
+      "the duodenum"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "gallbladder": [
+      "gallbladder",
+      "the gallbladder",
+      "gall bladder"
+    ],
+    "inferior vena cava": [
+      "inferior vena cava",
+      "IVC",
+      "the inferior vena cava"
+    ],
+    "left adrenal gland": [
+      "left adrenal gland",
+      "the left adrenal gland",
+      "left suprarenal gland"
+    ],
+    "left kidney": [
+      "left kidney",
+      "the left kidney"
+    ],
+    "liver": [
+      "liver",
+      "the liver",
+      "hepatic parenchyma"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas",
+      "pancreatic tissue"
+    ],
+    "right adrenal gland": [
+      "right adrenal gland",
+      "the right adrenal gland",
+      "right suprarenal gland"
+    ],
+    "right kidney": [
+      "right kidney",
+      "the right kidney"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen",
+      "splenic tissue"
+    ],
+    "stomach": [
+      "stomach",
+      "the stomach",
+      "gastric lumen"
+    ]
+  }
+}

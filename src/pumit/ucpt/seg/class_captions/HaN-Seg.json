@@ -1,0 +1,146 @@
+{
+  "source": "HaN-Seg",
+  "classes": {
+    "A_Carotid_L": [
+      "left carotid artery",
+      "the left carotid artery",
+      "left carotid"
+    ],
+    "A_Carotid_R": [
+      "right carotid artery",
+      "the right carotid artery",
+      "right carotid"
+    ],
+    "Arytenoid": [
+      "arytenoid cartilage",
+      "the arytenoid cartilage",
+      "arytenoid"
+    ],
+    "Bone_Mandible": [
+      "mandible",
+      "the mandible",
+      "mandibular bone",
+      "lower jaw bone"
+    ],
+    "Brainstem": [
+      "brainstem",
+      "the brainstem",
+      "brain stem"
+    ],
+    "BuccalMucosa": [
+      "buccal mucosa",
+      "the buccal mucosa",
+      "buccal mucosal surface"
+    ],
+    "Cavity_Oral": [
+      "oral cavity",
+      "the oral cavity",
+      "mouth cavity"
+    ],
+    "Cochlea_L": [
+      "left cochlea",
+      "the left cochlea"
+    ],
+    "Cochlea_R": [
+      "right cochlea",
+      "the right cochlea"
+    ],
+    "Cricopharyngeus": [
+      "cricopharyngeus muscle",
+      "the cricopharyngeus muscle",
+      "cricopharyngeus"
+    ],
+    "Esophagus_S": [
+      "superior esophagus",
+      "the superior esophagus",
+      "upper esophagus",
+      "proximal esophagus"
+    ],
+    "Eye_AL": [
+      "left anterior eye segment",
+      "the left anterior eye segment",
+      "anterior segment of the left eye"
+    ],
+    "Eye_AR": [
+      "right anterior eye segment",
+      "the right anterior eye segment",
+      "anterior segment of the right eye"
+    ],
+    "Eye_PL": [
+      "left posterior eye segment",
+      "the left posterior eye segment",
+      "posterior segment of the left eye"
+    ],
+    "Eye_PR": [
+      "right posterior eye segment",
+      "the right posterior eye segment",
+      "posterior segment of the right eye"
+    ],
+    "Glnd_Lacrimal_L": [
+      "left lacrimal gland",
+      "the left lacrimal gland"
+    ],
+    "Glnd_Lacrimal_R": [
+      "right lacrimal gland",
+      "the right lacrimal gland"
+    ],
+    "Glnd_Submand_L": [
+      "left submandibular gland",
+      "the left submandibular gland"
+    ],
+    "Glnd_Submand_R": [
+      "right submandibular gland",
+      "the right submandibular gland"
+    ],
+    "Glnd_Thyroid": [
+      "thyroid gland",
+      "the thyroid gland",
+      "thyroid"
+    ],
+    "Glottis": [
+      "glottis",
+      "the glottis",
+      "glottic region"
+    ],
+    "Larynx_SG": [
+      "supraglottic larynx",
+      "the supraglottic larynx",
+      "supraglottis"
+    ],
+    "Lips": [
+      "lips",
+      "the lips"
+    ],
+    "OpticChiasm": [
+      "optic chiasm",
+      "the optic chiasm",
+      "optic chiasma"
+    ],
+    "OpticNrv_L": [
+      "left optic nerve",
+      "the left optic nerve"
+    ],
+    "OpticNrv_R": [
+      "right optic nerve",
+      "the right optic nerve"
+    ],
+    "Parotid_L": [
+      "left parotid gland",
+      "the left parotid gland"
+    ],
+    "Parotid_R": [
+      "right parotid gland",
+      "the right parotid gland"
+    ],
+    "Pituitary": [
+      "pituitary gland",
+      "the pituitary gland",
+      "pituitary",
+      "hypophysis"
+    ],
+    "SpinalCord": [
+      "spinal cord",
+      "the spinal cord"
+    ]
+  }
+}

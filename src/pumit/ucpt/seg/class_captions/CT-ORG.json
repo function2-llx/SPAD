@@ -1,0 +1,38 @@
+{
+  "source": "CT-ORG",
+  "classes": {
+    "bladder": [
+      "urinary bladder",
+      "bladder",
+      "the urinary bladder"
+    ],
+    "bone": [
+      "bone",
+      "bone tissue",
+      "osseous tissue",
+      "the bone"
+    ],
+    "brain": [
+      "brain",
+      "the brain",
+      "brain parenchyma",
+      "cerebral tissue"
+    ],
+    "kidneys": [
+      "kidneys",
+      "both kidneys",
+      "the kidneys"
+    ],
+    "liver": [
+      "liver",
+      "the liver",
+      "hepatic tissue"
+    ],
+    "lungs": [
+      "lungs",
+      "both lungs",
+      "the lungs",
+      "pulmonary tissue"
+    ]
+  }
+}

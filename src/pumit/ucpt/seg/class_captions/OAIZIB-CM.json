@@ -1,0 +1,33 @@
+{
+  "source": "OAIZIB-CM",
+  "classes": {
+    "Femoral Cartilage": [
+      "knee femoral cartilage",
+      "femoral cartilage of the knee",
+      "femoral cartilage",
+      "cartilage of the femoral condyle"
+    ],
+    "Femur": [
+      "femur",
+      "femoral bone",
+      "thigh bone",
+      "the femur"
+    ],
+    "Lateral Tibial Cartilage": [
+      "lateral tibial cartilage",
+      "lateral tibial cartilage of the knee",
+      "lateral compartment tibial cartilage"
+    ],
+    "Medial Tibial Cartilage": [
+      "medial tibial cartilage",
+      "medial tibial cartilage of the knee",
+      "medial compartment tibial cartilage"
+    ],
+    "Tibia": [
+      "tibia",
+      "tibial bone",
+      "shin bone",
+      "the tibia"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source": "AbdomenCT-1K",
+  "classes": {
+    "kidney": [
+      "kidney",
+      "the kidney",
+      "renal parenchyma"
+    ],
+    "liver": [
+      "liver",
+      "the liver",
+      "hepatic parenchyma"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas",
+      "pancreatic parenchyma"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen",
+      "splenic parenchyma"
+    ]
+  }
+}

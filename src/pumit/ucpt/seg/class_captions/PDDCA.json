@@ -1,0 +1,51 @@
+{
+  "source": "PDDCA",
+  "classes": {
+    "BrainStem": [
+      "brainstem",
+      "brain stem",
+      "the brainstem"
+    ],
+    "Chiasm": [
+      "optic chiasm",
+      "optic chiasma",
+      "the optic chiasm"
+    ],
+    "Mandible": [
+      "mandible",
+      "lower jaw",
+      "jawbone",
+      "the mandible"
+    ],
+    "OpticNerve_L": [
+      "left optic nerve",
+      "the left optic nerve",
+      "left cranial nerve II"
+    ],
+    "OpticNerve_R": [
+      "right optic nerve",
+      "the right optic nerve",
+      "right cranial nerve II"
+    ],
+    "Parotid_L": [
+      "left parotid gland",
+      "the left parotid gland",
+      "left parotid"
+    ],
+    "Parotid_R": [
+      "right parotid gland",
+      "the right parotid gland",
+      "right parotid"
+    ],
+    "Submandibular_L": [
+      "left submandibular gland",
+      "the left submandibular gland",
+      "left submandibular"
+    ],
+    "Submandibular_R": [
+      "right submandibular gland",
+      "the right submandibular gland",
+      "right submandibular"
+    ]
+  }
+}

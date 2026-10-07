@@ -1,0 +1,17 @@
+{
+  "source": "MSD-Task05",
+  "classes": {
+    "PZ": [
+      "prostate peripheral zone",
+      "peripheral zone of the prostate",
+      "prostate PZ",
+      "prostatic peripheral zone"
+    ],
+    "TZ": [
+      "prostate transition zone",
+      "transition zone of the prostate",
+      "prostate TZ",
+      "prostatic transition zone"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "source": "AeroPath",
+  "classes": {
+    "airways": [
+      "airways",
+      "airway tree"
+    ],
+    "lungs": [
+      "lungs",
+      "the lungs",
+      "lung parenchyma"
+    ]
+  }
+}

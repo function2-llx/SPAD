@@ -1,0 +1,22 @@
+{
+  "source": "SPIDER",
+  "classes": {
+    "intervertebral_disc": [
+      "lumbar intervertebral disc",
+      "lumbar disc",
+      "intervertebral disc",
+      "spinal disc"
+    ],
+    "spinal_canal": [
+      "lumbar spinal canal",
+      "spinal canal",
+      "the lumbar spinal canal",
+      "lumbar vertebral canal"
+    ],
+    "vertebra": [
+      "lumbar vertebra",
+      "lumbar spine vertebra",
+      "lumbar vertebral body"
+    ]
+  }
+}

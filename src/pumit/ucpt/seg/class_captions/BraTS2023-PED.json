@@ -1,0 +1,23 @@
+{
+  "source": "BraTS2023-PED",
+  "classes": {
+    "ED": [
+      "pediatric brain tumor peritumoral edema",
+      "peritumoral edema of pediatric brain tumor",
+      "pediatric brain tumor edema",
+      "pediatric peritumoral edema"
+    ],
+    "ET": [
+      "pediatric brain tumor enhancing tumor region",
+      "enhancing region of pediatric brain tumor",
+      "enhancing pediatric brain tumor",
+      "contrast-enhancing pediatric brain tumor region"
+    ],
+    "NC": [
+      "pediatric brain tumor non-enhancing, cystic, and necrotic component",
+      "non-enhancing, cystic, and necrotic component of pediatric brain tumor",
+      "combined non-enhancing, cystic, and necrotic pediatric brain tumor component",
+      "pediatric brain tumor combined non-enhancing, cystic, and necrotic component"
+    ]
+  }
+}

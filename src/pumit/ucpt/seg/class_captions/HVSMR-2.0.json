@@ -1,0 +1,46 @@
+{
+  "source": "HVSMR-2.0",
+  "classes": {
+    "aorta": [
+      "aorta",
+      "the aorta"
+    ],
+    "inferior_vena_cava": [
+      "inferior vena cava",
+      "IVC",
+      "the inferior vena cava"
+    ],
+    "left_atrium": [
+      "left atrium",
+      "the left atrium",
+      "left atrial chamber"
+    ],
+    "left_ventricle": [
+      "left ventricle",
+      "the left ventricle",
+      "left ventricular chamber",
+      "LV"
+    ],
+    "pulmonary_artery": [
+      "pulmonary artery",
+      "the pulmonary artery",
+      "PA"
+    ],
+    "right_atrium": [
+      "right atrium",
+      "the right atrium",
+      "right atrial chamber"
+    ],
+    "right_ventricle": [
+      "right ventricle",
+      "the right ventricle",
+      "right ventricular chamber",
+      "RV"
+    ],
+    "superior_vena_cava": [
+      "superior vena cava",
+      "SVC",
+      "the superior vena cava"
+    ]
+  }
+}

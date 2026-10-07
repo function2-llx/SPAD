@@ -1,0 +1,76 @@
+{
+  "source": "WORD",
+  "classes": {
+    "Head_of_femur_L": [
+      "left femoral head",
+      "head of left femur",
+      "the left femoral head"
+    ],
+    "Head_of_femur_R": [
+      "right femoral head",
+      "head of right femur",
+      "the right femoral head"
+    ],
+    "adrenal": [
+      "adrenal gland",
+      "adrenal",
+      "the adrenal gland"
+    ],
+    "bladder": [
+      "urinary bladder",
+      "bladder",
+      "the bladder"
+    ],
+    "colon": [
+      "colon",
+      "large intestine",
+      "the colon"
+    ],
+    "duodenum": [
+      "duodenum",
+      "the duodenum"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "gallbladder": [
+      "gallbladder",
+      "the gallbladder"
+    ],
+    "intestine": [
+      "small bowel",
+      "small intestine",
+      "the intestine",
+      "intestine"
+    ],
+    "left_kidney": [
+      "left kidney",
+      "the left kidney"
+    ],
+    "liver": [
+      "liver",
+      "the liver"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas"
+    ],
+    "rectum": [
+      "rectum",
+      "the rectum"
+    ],
+    "right_kidney": [
+      "right kidney",
+      "the right kidney"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen"
+    ],
+    "stomach": [
+      "stomach",
+      "the stomach"
+    ]
+  }
+}

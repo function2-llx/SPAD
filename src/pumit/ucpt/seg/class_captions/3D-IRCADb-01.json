@@ -1,0 +1,56 @@
+{
+  "source": "3D-IRCADb-01",
+  "classes": {
+    "artery": [
+      "hepatic artery",
+      "the hepatic artery",
+      "liver artery"
+    ],
+    "bone": [
+      "bone",
+      "the bone",
+      "osseous tissue"
+    ],
+    "gallbladder": [
+      "gallbladder",
+      "the gallbladder",
+      "gall bladder"
+    ],
+    "left adrenal gland": [
+      "left adrenal gland",
+      "the left adrenal gland",
+      "left suprarenal gland"
+    ],
+    "left kidney": [
+      "left kidney",
+      "the left kidney"
+    ],
+    "liver": [
+      "liver",
+      "the liver"
+    ],
+    "portal vein": [
+      "portal vein",
+      "the portal vein",
+      "hepatic portal vein"
+    ],
+    "right adrenal gland": [
+      "right adrenal gland",
+      "the right adrenal gland",
+      "right suprarenal gland"
+    ],
+    "right kidney": [
+      "right kidney",
+      "the right kidney"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen"
+    ],
+    "vena cava": [
+      "inferior vena cava",
+      "IVC",
+      "the inferior vena cava"
+    ]
+  }
+}

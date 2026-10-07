@@ -1,0 +1,11 @@
+{
+  "source": "BraTS2024-MEN-RT",
+  "classes": {
+    "GTV": [
+      "meningioma gross tumor volume",
+      "meningioma GTV",
+      "meningioma radiotherapy gross tumor volume",
+      "radiotherapy gross tumor volume for meningioma"
+    ]
+  }
+}

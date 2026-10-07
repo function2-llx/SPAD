@@ -1,0 +1,57 @@
+{
+  "source": "MRBrains18",
+  "classes": {
+    "basal_ganglia": [
+      "basal ganglia",
+      "deep gray matter nuclei",
+      "subcortical gray matter",
+      "the basal ganglia"
+    ],
+    "brain_stem": [
+      "brainstem",
+      "brain stem",
+      "the brainstem"
+    ],
+    "cerebellum": [
+      "cerebellum",
+      "the cerebellum"
+    ],
+    "cortical_gm": [
+      "cortical gray matter",
+      "cortical grey matter",
+      "cerebral cortex"
+    ],
+    "csf": [
+      "cerebrospinal fluid",
+      "CSF"
+    ],
+    "infarction": [
+      "cerebral infarction",
+      "brain infarction",
+      "cerebral infarct",
+      "ischemic stroke lesion"
+    ],
+    "other": [
+      "other tissue",
+      "unclassified tissue",
+      "miscellaneous tissue"
+    ],
+    "ventricles": [
+      "cerebral ventricles",
+      "ventricles",
+      "brain ventricles",
+      "ventricular system"
+    ],
+    "white_matter": [
+      "white matter",
+      "cerebral white matter",
+      "brain white matter"
+    ],
+    "white_matter_lesions": [
+      "white matter hyperintensities",
+      "cerebral white matter lesions",
+      "WMH",
+      "white matter lesions"
+    ]
+  }
+}

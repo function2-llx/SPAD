@@ -1,0 +1,11 @@
+{
+  "source": "Kvasir-SEG",
+  "classes": {
+    "polyp": [
+      "colorectal polyp",
+      "colon polyp",
+      "intestinal polyp",
+      "polyp"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "source": "OASIS-1",
+  "classes": {
+    "CSF": [
+      "cerebrospinal fluid",
+      "CSF"
+    ],
+    "gray_matter": [
+      "brain gray matter",
+      "cerebral gray matter",
+      "gray matter",
+      "the brain gray matter"
+    ],
+    "white_matter": [
+      "white matter",
+      "cerebral white matter",
+      "the brain white matter",
+      "brain white matter"
+    ]
+  }
+}

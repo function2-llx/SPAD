@@ -1,0 +1,17 @@
+{
+  "source": "MSD-Task04",
+  "classes": {
+    "Anterior": [
+      "anterior hippocampus",
+      "anterior hippocampal region",
+      "head of the hippocampus",
+      "the anterior hippocampus"
+    ],
+    "Posterior": [
+      "posterior hippocampus",
+      "posterior hippocampal region",
+      "posterior body of the hippocampus",
+      "the posterior hippocampus"
+    ]
+  }
+}

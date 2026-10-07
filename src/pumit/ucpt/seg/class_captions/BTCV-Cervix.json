@@ -1,0 +1,26 @@
+{
+  "source": "BTCV-Cervix",
+  "classes": {
+    "bladder": [
+      "urinary bladder",
+      "bladder",
+      "the urinary bladder",
+      "the bladder"
+    ],
+    "rectum": [
+      "rectum",
+      "the rectum"
+    ],
+    "small_bowel": [
+      "small bowel",
+      "small intestine",
+      "the small bowel",
+      "the small intestine"
+    ],
+    "uterus": [
+      "uterus",
+      "the uterus",
+      "womb"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+# ViT-L/16 (DINOv3); values resolve to the same architecture as configs/ucpt/train.yaml
+# (which uses embed_dim/depth/num_heads/mlp_ratio; here we use the ViTConfig schema directly).
+hidden_size: 1024
+num_hidden_layers: 24
+num_attention_heads: 16
+intermediate_size: 4096
+num_register_tokens: 4
+patch_size: 16
+in_channels: 3
+grad_ckpt: false
+drop_path_rate: 0.0

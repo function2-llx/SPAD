@@ -1,0 +1,22 @@
+{
+  "source": "ACDC",
+  "classes": {
+    "LV": [
+      "left ventricular cavity",
+      "left ventricle cavity",
+      "the left ventricular cavity",
+      "LV cavity"
+    ],
+    "RV": [
+      "right ventricular cavity",
+      "right ventricle cavity",
+      "the right ventricular cavity",
+      "RV cavity"
+    ],
+    "myocardium": [
+      "left ventricular myocardium",
+      "left ventricle myocardium",
+      "LV myocardium"
+    ]
+  }
+}

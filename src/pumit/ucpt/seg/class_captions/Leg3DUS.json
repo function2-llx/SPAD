@@ -1,0 +1,21 @@
+{
+  "source": "Leg3DUS",
+  "classes": {
+    "gastrocnemius_lateral": [
+      "lateral gastrocnemius",
+      "lateral gastrocnemius muscle",
+      "lateral head of gastrocnemius",
+      "gastrocnemius lateral head"
+    ],
+    "gastrocnemius_medial": [
+      "medial gastrocnemius",
+      "medial gastrocnemius muscle",
+      "medial head of gastrocnemius",
+      "gastrocnemius medial head"
+    ],
+    "soleus": [
+      "soleus",
+      "soleus muscle"
+    ]
+  }
+}

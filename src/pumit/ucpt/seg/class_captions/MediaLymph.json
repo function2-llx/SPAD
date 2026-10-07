@@ -1,0 +1,29 @@
+{
+  "source": "MediaLymph",
+  "classes": {
+    "azygos": [
+      "azygos vein",
+      "the azygos vein",
+      "azygos"
+    ],
+    "brachiocephalic_veins": [
+      "brachiocephalic veins",
+      "innominate veins",
+      "the brachiocephalic veins"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "lymph_nodes": [
+      "mediastinal lymph nodes",
+      "the mediastinal lymph nodes",
+      "mediastinal nodes",
+      "mediastinal lymph node"
+    ],
+    "subclavian_artery": [
+      "subclavian artery",
+      "the subclavian artery"
+    ]
+  }
+}

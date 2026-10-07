@@ -1,0 +1,11 @@
+{
+  "source": "WMHSegChallenge",
+  "classes": {
+    "wmh": [
+      "white matter hyperintensities",
+      "WMH",
+      "white matter lesions",
+      "white matter hyperintensity"
+    ]
+  }
+}

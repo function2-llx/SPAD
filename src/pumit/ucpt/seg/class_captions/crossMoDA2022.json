@@ -1,0 +1,17 @@
+{
+  "source": "crossMoDA2022",
+  "classes": {
+    "cochlea": [
+      "cochlea",
+      "the cochlea",
+      "cochlear structure",
+      "inner ear cochlea"
+    ],
+    "vestibular_schwannoma": [
+      "vestibular schwannoma",
+      "acoustic neuroma",
+      "the vestibular schwannoma",
+      "schwannoma of the vestibulocochlear nerve"
+    ]
+  }
+}

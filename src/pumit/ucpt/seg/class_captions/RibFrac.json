@@ -1,0 +1,11 @@
+{
+  "source": "RibFrac",
+  "classes": {
+    "fracture": [
+      "rib fracture",
+      "fractured rib",
+      "rib bone fracture",
+      "costal fracture"
+    ]
+  }
+}

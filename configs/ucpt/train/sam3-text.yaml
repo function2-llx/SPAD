@@ -1,0 +1,12 @@
+# Replace SigLIP 2 text features with SAM 3 text features and its pretrained projection.
+
+data:
+  text_cache_path: precompute/ucpt/sam3_text_embeddings.pt
+
+model:
+  text_embed_dim: 1024
+  load_sam3_text_projection: true
+
+run:
+  save_dir: outputs/ucpt/sam3-text
+  wandb_name: sam3-text

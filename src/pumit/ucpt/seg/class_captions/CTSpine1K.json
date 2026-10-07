@@ -1,0 +1,155 @@
+{
+  "source": "CTSpine1K",
+  "classes": {
+    "C1": [
+      "cervical vertebra C1",
+      "C1 vertebra",
+      "the C1 vertebra",
+      "atlas vertebra"
+    ],
+    "C2": [
+      "cervical vertebra C2",
+      "C2 vertebra",
+      "the C2 vertebra",
+      "axis vertebra"
+    ],
+    "C3": [
+      "cervical vertebra C3",
+      "C3 vertebra",
+      "the C3 vertebra",
+      "C3 cervical vertebra"
+    ],
+    "C4": [
+      "cervical vertebra C4",
+      "C4 vertebra",
+      "the C4 vertebra",
+      "C4 cervical vertebra"
+    ],
+    "C5": [
+      "cervical vertebra C5",
+      "C5 vertebra",
+      "the C5 vertebra",
+      "C5 cervical vertebra"
+    ],
+    "C6": [
+      "cervical vertebra C6",
+      "C6 vertebra",
+      "the C6 vertebra",
+      "C6 cervical vertebra"
+    ],
+    "C7": [
+      "cervical vertebra C7",
+      "C7 vertebra",
+      "the C7 vertebra",
+      "C7 cervical vertebra"
+    ],
+    "L1": [
+      "lumbar vertebra L1",
+      "L1 vertebra",
+      "the L1 vertebra",
+      "L1 lumbar vertebra"
+    ],
+    "L2": [
+      "lumbar vertebra L2",
+      "L2 vertebra",
+      "the L2 vertebra",
+      "L2 lumbar vertebra"
+    ],
+    "L3": [
+      "lumbar vertebra L3",
+      "L3 vertebra",
+      "the L3 vertebra",
+      "L3 lumbar vertebra"
+    ],
+    "L4": [
+      "lumbar vertebra L4",
+      "L4 vertebra",
+      "the L4 vertebra",
+      "L4 lumbar vertebra"
+    ],
+    "L5": [
+      "lumbar vertebra L5",
+      "L5 vertebra",
+      "the L5 vertebra",
+      "L5 lumbar vertebra"
+    ],
+    "L6": [
+      "lumbar vertebra L6",
+      "L6 vertebra",
+      "the L6 vertebra",
+      "L6 lumbar vertebra"
+    ],
+    "T1": [
+      "thoracic vertebra T1",
+      "T1 vertebra",
+      "the T1 vertebra",
+      "T1 thoracic vertebra"
+    ],
+    "T10": [
+      "thoracic vertebra T10",
+      "T10 vertebra",
+      "the T10 vertebra",
+      "T10 thoracic vertebra"
+    ],
+    "T11": [
+      "thoracic vertebra T11",
+      "T11 vertebra",
+      "the T11 vertebra",
+      "T11 thoracic vertebra"
+    ],
+    "T12": [
+      "thoracic vertebra T12",
+      "T12 vertebra",
+      "the T12 vertebra",
+      "T12 thoracic vertebra"
+    ],
+    "T2": [
+      "thoracic vertebra T2",
+      "T2 vertebra",
+      "the T2 vertebra",
+      "T2 thoracic vertebra"
+    ],
+    "T3": [
+      "thoracic vertebra T3",
+      "T3 vertebra",
+      "the T3 vertebra",
+      "T3 thoracic vertebra"
+    ],
+    "T4": [
+      "thoracic vertebra T4",
+      "T4 vertebra",
+      "the T4 vertebra",
+      "T4 thoracic vertebra"
+    ],
+    "T5": [
+      "thoracic vertebra T5",
+      "T5 vertebra",
+      "the T5 vertebra",
+      "T5 thoracic vertebra"
+    ],
+    "T6": [
+      "thoracic vertebra T6",
+      "T6 vertebra",
+      "the T6 vertebra",
+      "T6 thoracic vertebra"
+    ],
+    "T7": [
+      "thoracic vertebra T7",
+      "T7 vertebra",
+      "the T7 vertebra",
+      "T7 thoracic vertebra"
+    ],
+    "T8": [
+      "thoracic vertebra T8",
+      "T8 vertebra",
+      "the T8 vertebra",
+      "T8 thoracic vertebra"
+    ],
+    "T9": [
+      "thoracic vertebra T9",
+      "T9 vertebra",
+      "the T9 vertebra",
+      "T9 thoracic vertebra"
+    ]
+  }
+}

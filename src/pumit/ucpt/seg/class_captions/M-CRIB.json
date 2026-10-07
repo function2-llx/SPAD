@@ -1,0 +1,439 @@
+{
+  "source": "M-CRIB",
+  "classes": {
+    "3rd-Ventricle": [
+      "third ventricle",
+      "3rd ventricle",
+      "the third ventricle"
+    ],
+    "4th-Ventricle": [
+      "fourth ventricle",
+      "4th ventricle",
+      "the fourth ventricle"
+    ],
+    "CSF": [
+      "cerebrospinal fluid",
+      "CSF",
+      "CSF space"
+    ],
+    "Cerebellar_vermis_anterior": [
+      "anterior cerebellar vermis",
+      "anterior vermis"
+    ],
+    "Cerebellar_vermis_inferior_posterior": [
+      "inferior posterior cerebellar vermis",
+      "inferior posterior vermis"
+    ],
+    "Cerebellar_vermis_superior_posterior": [
+      "superior posterior cerebellar vermis",
+      "superior posterior vermis"
+    ],
+    "Corpus_Callosum": [
+      "corpus callosum",
+      "the corpus callosum"
+    ],
+    "LH_Cerebellar_hemisphere": [
+      "left cerebellar hemisphere",
+      "the left cerebellar hemisphere"
+    ],
+    "Left-Accumbens-area": [
+      "left accumbens area",
+      "left nucleus accumbens",
+      "the left accumbens area"
+    ],
+    "Left-Amygdala": [
+      "left amygdala",
+      "the left amygdala",
+      "left amygdaloid body"
+    ],
+    "Left-Caudate": [
+      "left caudate nucleus",
+      "left caudate",
+      "the left caudate nucleus"
+    ],
+    "Left-Cerebral-White-Matter": [
+      "left cerebral white matter",
+      "left hemisphere white matter",
+      "the left cerebral white matter"
+    ],
+    "Left-Hippocampus": [
+      "left hippocampus",
+      "the left hippocampus",
+      "left hippocampal formation"
+    ],
+    "Left-Lateral-Ventricle": [
+      "left lateral ventricle",
+      "the left lateral ventricle"
+    ],
+    "Left-Pallidum": [
+      "left pallidum",
+      "the left pallidum",
+      "left globus pallidus"
+    ],
+    "Left-Putamen": [
+      "left putamen",
+      "the left putamen"
+    ],
+    "Left-Thalamus": [
+      "left thalamus",
+      "the left thalamus"
+    ],
+    "Left-VentralDC": [
+      "left ventral diencephalon",
+      "left ventral DC",
+      "the left ventral diencephalon"
+    ],
+    "RH_Cerebellar_hemisphere": [
+      "right cerebellar hemisphere",
+      "the right cerebellar hemisphere"
+    ],
+    "Right-Accumbens-area": [
+      "right accumbens area",
+      "right nucleus accumbens",
+      "the right accumbens area"
+    ],
+    "Right-Amygdala": [
+      "right amygdala",
+      "the right amygdala",
+      "right amygdaloid body"
+    ],
+    "Right-Caudate": [
+      "right caudate nucleus",
+      "right caudate",
+      "the right caudate nucleus"
+    ],
+    "Right-Cerebral-White-Matter": [
+      "right cerebral white matter",
+      "right hemisphere white matter",
+      "the right cerebral white matter"
+    ],
+    "Right-Hippocampus": [
+      "right hippocampus",
+      "the right hippocampus",
+      "right hippocampal formation"
+    ],
+    "Right-Lateral-Ventricle": [
+      "right lateral ventricle",
+      "the right lateral ventricle"
+    ],
+    "Right-Pallidum": [
+      "right pallidum",
+      "the right pallidum",
+      "right globus pallidus"
+    ],
+    "Right-Putamen": [
+      "right putamen",
+      "the right putamen"
+    ],
+    "Right-Thalamus": [
+      "right thalamus",
+      "the right thalamus"
+    ],
+    "Right-VentralDC": [
+      "right ventral diencephalon",
+      "right ventral DC",
+      "the right ventral diencephalon"
+    ],
+    "Unknown": [
+      "unknown tissue"
+    ],
+    "brainstem": [
+      "brainstem",
+      "brain stem"
+    ],
+    "ctx-lh-bankssts": [
+      "left banks of superior temporal sulcus cortex",
+      "left banks of STS cortex"
+    ],
+    "ctx-lh-caudalanteriorcingulate": [
+      "left caudal anterior cingulate cortex",
+      "left caudal ACC"
+    ],
+    "ctx-lh-caudalmiddlefrontal": [
+      "left caudal middle frontal cortex",
+      "left caudal middle frontal gyrus"
+    ],
+    "ctx-lh-cuneus": [
+      "left cuneus cortex",
+      "left cuneus"
+    ],
+    "ctx-lh-entorhinal": [
+      "left entorhinal cortex",
+      "left entorhinal area"
+    ],
+    "ctx-lh-frontalpole": [
+      "left frontal pole cortex",
+      "left frontal pole"
+    ],
+    "ctx-lh-fusiform": [
+      "left fusiform cortex",
+      "left fusiform gyrus"
+    ],
+    "ctx-lh-inferiorparietal": [
+      "left inferior parietal cortex",
+      "left inferior parietal lobule"
+    ],
+    "ctx-lh-inferiortemporal": [
+      "left inferior temporal cortex",
+      "left inferior temporal gyrus"
+    ],
+    "ctx-lh-insula": [
+      "left insula cortex",
+      "left insula",
+      "left insular cortex"
+    ],
+    "ctx-lh-isthmuscingulate": [
+      "left isthmus cingulate cortex",
+      "left isthmus of cingulate cortex"
+    ],
+    "ctx-lh-lateraloccipital": [
+      "left lateral occipital cortex",
+      "left lateral occipital gyrus"
+    ],
+    "ctx-lh-lateralorbitofrontal": [
+      "left lateral orbitofrontal cortex",
+      "left lateral OFC"
+    ],
+    "ctx-lh-lingual": [
+      "left lingual cortex",
+      "left lingual gyrus"
+    ],
+    "ctx-lh-medialorbitofrontal": [
+      "left medial orbitofrontal cortex",
+      "left medial OFC"
+    ],
+    "ctx-lh-middletemporal": [
+      "left middle temporal cortex",
+      "left middle temporal gyrus"
+    ],
+    "ctx-lh-paracentral": [
+      "left paracentral cortex",
+      "left paracentral lobule"
+    ],
+    "ctx-lh-parahippocampal": [
+      "left parahippocampal cortex",
+      "left parahippocampal gyrus"
+    ],
+    "ctx-lh-parsopercularis": [
+      "left pars opercularis cortex",
+      "left pars opercularis",
+      "left pars opercularis of inferior frontal gyrus"
+    ],
+    "ctx-lh-parsorbitalis": [
+      "left pars orbitalis cortex",
+      "left pars orbitalis",
+      "left pars orbitalis of inferior frontal gyrus"
+    ],
+    "ctx-lh-parstriangularis": [
+      "left pars triangularis cortex",
+      "left pars triangularis",
+      "left pars triangularis of inferior frontal gyrus"
+    ],
+    "ctx-lh-pericalcarine": [
+      "left pericalcarine cortex",
+      "left pericalcarine fissure cortex"
+    ],
+    "ctx-lh-postcentral": [
+      "left postcentral cortex",
+      "left postcentral gyrus",
+      "left primary somatosensory cortex"
+    ],
+    "ctx-lh-posteriorcingulate": [
+      "left posterior cingulate cortex",
+      "left PCC"
+    ],
+    "ctx-lh-precentral": [
+      "left precentral cortex",
+      "left precentral gyrus",
+      "left primary motor cortex"
+    ],
+    "ctx-lh-precuneus": [
+      "left precuneus cortex",
+      "left precuneus"
+    ],
+    "ctx-lh-rostralanteriorcingulate": [
+      "left rostral anterior cingulate cortex",
+      "left rostral ACC"
+    ],
+    "ctx-lh-rostralmiddlefrontal": [
+      "left rostral middle frontal cortex",
+      "left rostral middle frontal gyrus"
+    ],
+    "ctx-lh-superiorfrontal": [
+      "left superior frontal cortex",
+      "left superior frontal gyrus"
+    ],
+    "ctx-lh-superiorparietal": [
+      "left superior parietal cortex",
+      "left superior parietal lobule"
+    ],
+    "ctx-lh-superiortemporal": [
+      "left superior temporal cortex",
+      "left superior temporal gyrus"
+    ],
+    "ctx-lh-supramarginal": [
+      "left supramarginal cortex",
+      "left supramarginal gyrus"
+    ],
+    "ctx-lh-temporalpole": [
+      "left temporal pole cortex",
+      "left temporal pole"
+    ],
+    "ctx-lh-transversetemporal": [
+      "left transverse temporal cortex",
+      "left transverse temporal gyrus",
+      "left Heschl's gyrus"
+    ],
+    "ctx-lh-unknown": [
+      "left unclassified cortex",
+      "left unlabeled cortex"
+    ],
+    "ctx-rh-bankssts": [
+      "right banks of superior temporal sulcus cortex",
+      "right banks of STS cortex"
+    ],
+    "ctx-rh-caudalanteriorcingulate": [
+      "right caudal anterior cingulate cortex",
+      "right caudal ACC"
+    ],
+    "ctx-rh-caudalmiddlefrontal": [
+      "right caudal middle frontal cortex",
+      "right caudal middle frontal gyrus"
+    ],
+    "ctx-rh-cuneus": [
+      "right cuneus cortex",
+      "right cuneus"
+    ],
+    "ctx-rh-entorhinal": [
+      "right entorhinal cortex",
+      "right entorhinal area"
+    ],
+    "ctx-rh-frontalpole": [
+      "right frontal pole cortex",
+      "right frontal pole"
+    ],
+    "ctx-rh-fusiform": [
+      "right fusiform cortex",
+      "right fusiform gyrus"
+    ],
+    "ctx-rh-inferiorparietal": [
+      "right inferior parietal cortex",
+      "right inferior parietal lobule"
+    ],
+    "ctx-rh-inferiortemporal": [
+      "right inferior temporal cortex",
+      "right inferior temporal gyrus"
+    ],
+    "ctx-rh-insula": [
+      "right insula cortex",
+      "right insula",
+      "right insular cortex"
+    ],
+    "ctx-rh-isthmuscingulate": [
+      "right isthmus cingulate cortex",
+      "right isthmus of cingulate cortex"
+    ],
+    "ctx-rh-lateraloccipital": [
+      "right lateral occipital cortex",
+      "right lateral occipital gyrus"
+    ],
+    "ctx-rh-lateralorbitofrontal": [
+      "right lateral orbitofrontal cortex",
+      "right lateral OFC"
+    ],
+    "ctx-rh-lingual": [
+      "right lingual cortex",
+      "right lingual gyrus"
+    ],
+    "ctx-rh-medialorbitofrontal": [
+      "right medial orbitofrontal cortex",
+      "right medial OFC"
+    ],
+    "ctx-rh-middletemporal": [
+      "right middle temporal cortex",
+      "right middle temporal gyrus"
+    ],
+    "ctx-rh-paracentral": [
+      "right paracentral cortex",
+      "right paracentral lobule"
+    ],
+    "ctx-rh-parahippocampal": [
+      "right parahippocampal cortex",
+      "right parahippocampal gyrus"
+    ],
+    "ctx-rh-parsopercularis": [
+      "right pars opercularis cortex",
+      "right pars opercularis",
+      "right pars opercularis of inferior frontal gyrus"
+    ],
+    "ctx-rh-parsorbitalis": [
+      "right pars orbitalis cortex",
+      "right pars orbitalis",
+      "right pars orbitalis of inferior frontal gyrus"
+    ],
+    "ctx-rh-parstriangularis": [
+      "right pars triangularis cortex",
+      "right pars triangularis",
+      "right pars triangularis of inferior frontal gyrus"
+    ],
+    "ctx-rh-pericalcarine": [
+      "right pericalcarine cortex",
+      "right pericalcarine fissure cortex"
+    ],
+    "ctx-rh-postcentral": [
+      "right postcentral cortex",
+      "right postcentral gyrus",
+      "right primary somatosensory cortex"
+    ],
+    "ctx-rh-posteriorcingulate": [
+      "right posterior cingulate cortex",
+      "right PCC"
+    ],
+    "ctx-rh-precentral": [
+      "right precentral cortex",
+      "right precentral gyrus",
+      "right primary motor cortex"
+    ],
+    "ctx-rh-precuneus": [
+      "right precuneus cortex",
+      "right precuneus"
+    ],
+    "ctx-rh-rostralanteriorcingulate": [
+      "right rostral anterior cingulate cortex",
+      "right rostral ACC"
+    ],
+    "ctx-rh-rostralmiddlefrontal": [
+      "right rostral middle frontal cortex",
+      "right rostral middle frontal gyrus"
+    ],
+    "ctx-rh-superiorfrontal": [
+      "right superior frontal cortex",
+      "right superior frontal gyrus"
+    ],
+    "ctx-rh-superiorparietal": [
+      "right superior parietal cortex",
+      "right superior parietal lobule"
+    ],
+    "ctx-rh-superiortemporal": [
+      "right superior temporal cortex",
+      "right superior temporal gyrus"
+    ],
+    "ctx-rh-supramarginal": [
+      "right supramarginal cortex",
+      "right supramarginal gyrus"
+    ],
+    "ctx-rh-temporalpole": [
+      "right temporal pole cortex",
+      "right temporal pole"
+    ],
+    "ctx-rh-transversetemporal": [
+      "right transverse temporal cortex",
+      "right transverse temporal gyrus",
+      "right Heschl's gyrus"
+    ],
+    "ctx-rh-unknown": [
+      "right unclassified cortex",
+      "right unlabeled cortex"
+    ]
+  }
+}

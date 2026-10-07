@@ -1,0 +1,11 @@
+{
+  "source": "MSD-Task06",
+  "classes": {
+    "cancer": [
+      "lung tumor",
+      "lung cancer",
+      "pulmonary tumor",
+      "lung mass"
+    ]
+  }
+}

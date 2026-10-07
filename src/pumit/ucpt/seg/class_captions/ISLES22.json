@@ -1,0 +1,10 @@
+{
+  "source": "ISLES22",
+  "classes": {
+    "stroke_lesion": [
+      "ischemic stroke lesion",
+      "ischemic lesion",
+      "stroke lesion"
+    ]
+  }
+}

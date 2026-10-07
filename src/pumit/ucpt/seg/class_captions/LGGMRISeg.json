@@ -1,0 +1,10 @@
+{
+  "source": "LGGMRISeg",
+  "classes": {
+    "flair_abnormality": [
+      "FLAIR abnormality",
+      "low-grade glioma FLAIR abnormality",
+      "LGG-associated FLAIR abnormality"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source": "CTPelvic1K",
+  "classes": {
+    "left hip": [
+      "left hip",
+      "the left hip",
+      "left hip joint",
+      "left hip bone"
+    ],
+    "lumbar spine": [
+      "lumbar spine",
+      "the lumbar spine",
+      "lumbar vertebrae",
+      "lumbar spinal column"
+    ],
+    "right hip": [
+      "right hip",
+      "the right hip",
+      "right hip joint",
+      "right hip bone"
+    ],
+    "sacrum": [
+      "sacrum",
+      "the sacrum",
+      "sacral bone"
+    ]
+  }
+}

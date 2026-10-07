@@ -1,0 +1,11 @@
+{
+  "source": "ARCADE-Stenosis",
+  "classes": {
+    "stenosis": [
+      "coronary artery stenosis",
+      "coronary stenosis",
+      "coronary artery narrowing",
+      "coronary luminal narrowing"
+    ]
+  }
+}

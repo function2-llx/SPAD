@@ -1,0 +1,17 @@
+{
+  "source": "HNTS-MRG",
+  "classes": {
+    "gtvn": [
+      "head and neck nodal gross tumor volume",
+      "head and neck nodal GTV",
+      "nodal gross tumor volume of the head and neck",
+      "regional nodal gross tumor volume"
+    ],
+    "gtvp": [
+      "head and neck primary gross tumor volume",
+      "head and neck primary GTV",
+      "primary gross tumor volume of the head and neck",
+      "head and neck primary tumor"
+    ]
+  }
+}

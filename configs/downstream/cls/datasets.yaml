@@ -1,0 +1,79 @@
+# Per-dataset config for the MedMNIST classification harness.
+#   size    native MedMNIST download resolution (must be supported: 2D 224, 3D 64)
+#   is_3d   3D volume vs 2D image
+# The encoder's fixed input size and SPAD degree-of-anisotropy (da) are backbone
+# properties, not dataset properties: resize target is hardcoded per backbone
+# (eva 224, spad 256) and da is derived inside the model from dims (2D -> max_adapt
+# single-slice, 3D -> 0). They are intentionally NOT settable here.
+pathmnist:
+  size: 224
+  is_3d: false
+  task: multi-class
+  n_classes: 9
+dermamnist:
+  size: 224
+  is_3d: false
+  task: multi-class
+  n_classes: 7
+octmnist:
+  size: 224
+  is_3d: false
+  task: multi-class
+  n_classes: 4
+bloodmnist:
+  size: 224
+  is_3d: false
+  task: multi-class
+  n_classes: 8
+tissuemnist:
+  size: 224
+  is_3d: false
+  task: multi-class
+  n_classes: 8
+pneumoniamnist:
+  size: 224
+  is_3d: false
+  task: binary-class
+  n_classes: 2
+retinamnist:
+  size: 224
+  is_3d: false
+  task: ordinal-regression
+  n_classes: 5
+organmnist3d:
+  size: 64
+  is_3d: true
+  task: multi-class
+  n_classes: 11
+nodulemnist3d:
+  size: 64
+  is_3d: true
+  task: binary-class
+  n_classes: 2
+adrenalmnist3d:
+  size: 64
+  is_3d: true
+  task: binary-class
+  n_classes: 2
+fracturemnist3d:
+  size: 64
+  is_3d: true
+  task: multi-class
+  n_classes: 3
+vesselmnist3d:
+  size: 64
+  is_3d: true
+  task: binary-class
+  n_classes: 2
+synapsemnist3d:
+  size: 64
+  is_3d: true
+  task: binary-class
+  n_classes: 2
+# Not MedMNIST: built by scripts/downstream/cls/prepare_ricord.py into the same npz layout.
+# `size` is the prepared cube edge, so it selects the artifact rather than a download resolution.
+ricord:
+  size: 192
+  is_3d: true
+  task: binary-class
+  n_classes: 2

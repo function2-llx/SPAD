@@ -1,0 +1,16 @@
+{
+  "source": "MSD-Task03",
+  "classes": {
+    "cancer": [
+      "liver tumor",
+      "hepatic tumor",
+      "liver cancer"
+    ],
+    "liver": [
+      "liver",
+      "the liver",
+      "liver parenchyma",
+      "hepatic tissue"
+    ]
+  }
+}

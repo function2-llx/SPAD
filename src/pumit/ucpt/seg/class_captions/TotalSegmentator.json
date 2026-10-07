@@ -1,0 +1,604 @@
+{
+  "source": "TotalSegmentator",
+  "classes": {
+    "adrenal_gland_left": [
+      "left adrenal gland",
+      "the left adrenal gland",
+      "left suprarenal gland"
+    ],
+    "adrenal_gland_right": [
+      "right adrenal gland",
+      "the right adrenal gland",
+      "right suprarenal gland"
+    ],
+    "aorta": [
+      "aorta",
+      "the aorta"
+    ],
+    "atrial_appendage_left": [
+      "left atrial appendage",
+      "the left atrial appendage",
+      "LAA",
+      "left auricle"
+    ],
+    "autochthon_left": [
+      "left autochthonous back muscles",
+      "the left autochthonous back muscles",
+      "left paraspinal muscles",
+      "left deep back muscles"
+    ],
+    "autochthon_right": [
+      "right autochthonous back muscles",
+      "the right autochthonous back muscles",
+      "right paraspinal muscles",
+      "right deep back muscles"
+    ],
+    "brachiocephalic_trunk": [
+      "brachiocephalic trunk",
+      "the brachiocephalic trunk",
+      "innominate artery"
+    ],
+    "brachiocephalic_vein_left": [
+      "left brachiocephalic vein",
+      "the left brachiocephalic vein",
+      "left innominate vein"
+    ],
+    "brachiocephalic_vein_right": [
+      "right brachiocephalic vein",
+      "the right brachiocephalic vein",
+      "right innominate vein"
+    ],
+    "brain": [
+      "brain",
+      "the brain"
+    ],
+    "clavicula_left": [
+      "left clavicle",
+      "the left clavicle",
+      "left collarbone"
+    ],
+    "clavicula_right": [
+      "right clavicle",
+      "the right clavicle",
+      "right collarbone"
+    ],
+    "colon": [
+      "colon",
+      "the colon",
+      "large intestine"
+    ],
+    "common_carotid_artery_left": [
+      "left common carotid artery",
+      "the left common carotid artery",
+      "left CCA"
+    ],
+    "common_carotid_artery_right": [
+      "right common carotid artery",
+      "the right common carotid artery",
+      "right CCA"
+    ],
+    "costal_cartilages": [
+      "costal cartilages",
+      "the costal cartilages"
+    ],
+    "duodenum": [
+      "duodenum",
+      "the duodenum"
+    ],
+    "esophagus": [
+      "esophagus",
+      "the esophagus"
+    ],
+    "femur_left": [
+      "left femur",
+      "the left femur",
+      "left femoral bone",
+      "left thigh bone"
+    ],
+    "femur_right": [
+      "right femur",
+      "the right femur",
+      "right femoral bone",
+      "right thigh bone"
+    ],
+    "gallbladder": [
+      "gallbladder",
+      "the gallbladder",
+      "gall bladder"
+    ],
+    "gluteus_maximus_left": [
+      "left gluteus maximus",
+      "the left gluteus maximus",
+      "left gluteus maximus muscle"
+    ],
+    "gluteus_maximus_right": [
+      "right gluteus maximus",
+      "the right gluteus maximus",
+      "right gluteus maximus muscle"
+    ],
+    "gluteus_medius_left": [
+      "left gluteus medius",
+      "the left gluteus medius",
+      "left gluteus medius muscle"
+    ],
+    "gluteus_medius_right": [
+      "right gluteus medius",
+      "the right gluteus medius",
+      "right gluteus medius muscle"
+    ],
+    "gluteus_minimus_left": [
+      "left gluteus minimus",
+      "the left gluteus minimus",
+      "left gluteus minimus muscle"
+    ],
+    "gluteus_minimus_right": [
+      "right gluteus minimus",
+      "the right gluteus minimus",
+      "right gluteus minimus muscle"
+    ],
+    "heart": [
+      "heart",
+      "the heart"
+    ],
+    "hip_left": [
+      "left hip",
+      "the left hip",
+      "left hip joint"
+    ],
+    "hip_right": [
+      "right hip",
+      "the right hip",
+      "right hip joint"
+    ],
+    "humerus_left": [
+      "left humerus",
+      "the left humerus",
+      "left upper arm bone"
+    ],
+    "humerus_right": [
+      "right humerus",
+      "the right humerus",
+      "right upper arm bone"
+    ],
+    "iliac_artery_left": [
+      "left iliac artery",
+      "the left iliac artery"
+    ],
+    "iliac_artery_right": [
+      "right iliac artery",
+      "the right iliac artery"
+    ],
+    "iliac_vena_left": [
+      "left iliac vein",
+      "the left iliac vein"
+    ],
+    "iliac_vena_right": [
+      "right iliac vein",
+      "the right iliac vein"
+    ],
+    "iliopsoas_left": [
+      "left iliopsoas",
+      "the left iliopsoas",
+      "left iliopsoas muscle"
+    ],
+    "iliopsoas_right": [
+      "right iliopsoas",
+      "the right iliopsoas",
+      "right iliopsoas muscle"
+    ],
+    "inferior_vena_cava": [
+      "inferior vena cava",
+      "IVC",
+      "the inferior vena cava"
+    ],
+    "kidney_cyst_left": [
+      "left kidney cyst",
+      "the left kidney cyst",
+      "left renal cyst",
+      "cyst of the left kidney"
+    ],
+    "kidney_cyst_right": [
+      "right kidney cyst",
+      "the right kidney cyst",
+      "right renal cyst",
+      "cyst of the right kidney"
+    ],
+    "kidney_left": [
+      "left kidney",
+      "the left kidney"
+    ],
+    "kidney_right": [
+      "right kidney",
+      "the right kidney"
+    ],
+    "liver": [
+      "liver",
+      "the liver"
+    ],
+    "lung_lower_lobe_left": [
+      "left lung lower lobe",
+      "the left lung lower lobe",
+      "left lower lung lobe",
+      "lower lobe of the left lung"
+    ],
+    "lung_lower_lobe_right": [
+      "right lung lower lobe",
+      "the right lung lower lobe",
+      "right lower lung lobe",
+      "lower lobe of the right lung"
+    ],
+    "lung_middle_lobe_right": [
+      "right lung middle lobe",
+      "the right lung middle lobe",
+      "right middle lung lobe",
+      "middle lobe of the right lung"
+    ],
+    "lung_upper_lobe_left": [
+      "left lung upper lobe",
+      "the left lung upper lobe",
+      "left upper lung lobe",
+      "upper lobe of the left lung"
+    ],
+    "lung_upper_lobe_right": [
+      "right lung upper lobe",
+      "the right lung upper lobe",
+      "right upper lung lobe",
+      "upper lobe of the right lung"
+    ],
+    "pancreas": [
+      "pancreas",
+      "the pancreas"
+    ],
+    "portal_vein_and_splenic_vein": [
+      "portal vein and splenic vein",
+      "the portal vein and splenic vein",
+      "portal and splenic veins",
+      "portal venous system"
+    ],
+    "prostate": [
+      "prostate",
+      "the prostate",
+      "prostate gland"
+    ],
+    "pulmonary_vein": [
+      "pulmonary vein",
+      "the pulmonary vein"
+    ],
+    "rib_left_1": [
+      "left rib 1",
+      "the left first rib",
+      "left first rib"
+    ],
+    "rib_left_10": [
+      "left rib 10",
+      "the left tenth rib",
+      "left tenth rib"
+    ],
+    "rib_left_11": [
+      "left rib 11",
+      "the left eleventh rib",
+      "left eleventh rib"
+    ],
+    "rib_left_12": [
+      "left rib 12",
+      "the left twelfth rib",
+      "left twelfth rib"
+    ],
+    "rib_left_2": [
+      "left rib 2",
+      "the left second rib",
+      "left second rib"
+    ],
+    "rib_left_3": [
+      "left rib 3",
+      "the left third rib",
+      "left third rib"
+    ],
+    "rib_left_4": [
+      "left rib 4",
+      "the left fourth rib",
+      "left fourth rib"
+    ],
+    "rib_left_5": [
+      "left rib 5",
+      "the left fifth rib",
+      "left fifth rib"
+    ],
+    "rib_left_6": [
+      "left rib 6",
+      "the left sixth rib",
+      "left sixth rib"
+    ],
+    "rib_left_7": [
+      "left rib 7",
+      "the left seventh rib",
+      "left seventh rib"
+    ],
+    "rib_left_8": [
+      "left rib 8",
+      "the left eighth rib",
+      "left eighth rib"
+    ],
+    "rib_left_9": [
+      "left rib 9",
+      "the left ninth rib",
+      "left ninth rib"
+    ],
+    "rib_right_1": [
+      "right rib 1",
+      "the right first rib",
+      "right first rib"
+    ],
+    "rib_right_10": [
+      "right rib 10",
+      "the right tenth rib",
+      "right tenth rib"
+    ],
+    "rib_right_11": [
+      "right rib 11",
+      "the right eleventh rib",
+      "right eleventh rib"
+    ],
+    "rib_right_12": [
+      "right rib 12",
+      "the right twelfth rib",
+      "right twelfth rib"
+    ],
+    "rib_right_2": [
+      "right rib 2",
+      "the right second rib",
+      "right second rib"
+    ],
+    "rib_right_3": [
+      "right rib 3",
+      "the right third rib",
+      "right third rib"
+    ],
+    "rib_right_4": [
+      "right rib 4",
+      "the right fourth rib",
+      "right fourth rib"
+    ],
+    "rib_right_5": [
+      "right rib 5",
+      "the right fifth rib",
+      "right fifth rib"
+    ],
+    "rib_right_6": [
+      "right rib 6",
+      "the right sixth rib",
+      "right sixth rib"
+    ],
+    "rib_right_7": [
+      "right rib 7",
+      "the right seventh rib",
+      "right seventh rib"
+    ],
+    "rib_right_8": [
+      "right rib 8",
+      "the right eighth rib",
+      "right eighth rib"
+    ],
+    "rib_right_9": [
+      "right rib 9",
+      "the right ninth rib",
+      "right ninth rib"
+    ],
+    "sacrum": [
+      "sacrum",
+      "the sacrum",
+      "sacral bone"
+    ],
+    "scapula_left": [
+      "left scapula",
+      "the left scapula",
+      "left shoulder blade"
+    ],
+    "scapula_right": [
+      "right scapula",
+      "the right scapula",
+      "right shoulder blade"
+    ],
+    "skull": [
+      "skull",
+      "the skull",
+      "cranium"
+    ],
+    "small_bowel": [
+      "small bowel",
+      "the small bowel",
+      "small intestine"
+    ],
+    "spinal_cord": [
+      "spinal cord",
+      "the spinal cord"
+    ],
+    "spleen": [
+      "spleen",
+      "the spleen"
+    ],
+    "sternum": [
+      "sternum",
+      "the sternum",
+      "breastbone"
+    ],
+    "stomach": [
+      "stomach",
+      "the stomach"
+    ],
+    "subclavian_artery_left": [
+      "left subclavian artery",
+      "the left subclavian artery",
+      "left SCA"
+    ],
+    "subclavian_artery_right": [
+      "right subclavian artery",
+      "the right subclavian artery",
+      "right SCA"
+    ],
+    "superior_vena_cava": [
+      "superior vena cava",
+      "SVC",
+      "the superior vena cava"
+    ],
+    "thyroid_gland": [
+      "thyroid gland",
+      "the thyroid gland",
+      "thyroid"
+    ],
+    "trachea": [
+      "trachea",
+      "the trachea"
+    ],
+    "urinary_bladder": [
+      "urinary bladder",
+      "the urinary bladder"
+    ],
+    "vertebrae_C1": [
+      "cervical vertebra C1",
+      "the cervical vertebra C1",
+      "C1 vertebra",
+      "atlas vertebra"
+    ],
+    "vertebrae_C2": [
+      "cervical vertebra C2",
+      "the cervical vertebra C2",
+      "C2 vertebra",
+      "axis vertebra"
+    ],
+    "vertebrae_C3": [
+      "cervical vertebra C3",
+      "the cervical vertebra C3",
+      "C3 vertebra"
+    ],
+    "vertebrae_C4": [
+      "cervical vertebra C4",
+      "the cervical vertebra C4",
+      "C4 vertebra"
+    ],
+    "vertebrae_C5": [
+      "cervical vertebra C5",
+      "the cervical vertebra C5",
+      "C5 vertebra"
+    ],
+    "vertebrae_C6": [
+      "cervical vertebra C6",
+      "the cervical vertebra C6",
+      "C6 vertebra"
+    ],
+    "vertebrae_C7": [
+      "cervical vertebra C7",
+      "the cervical vertebra C7",
+      "C7 vertebra",
+      "vertebra prominens"
+    ],
+    "vertebrae_L1": [
+      "lumbar vertebra L1",
+      "the lumbar vertebra L1",
+      "L1 vertebra",
+      "the first lumbar vertebra"
+    ],
+    "vertebrae_L2": [
+      "lumbar vertebra L2",
+      "the lumbar vertebra L2",
+      "L2 vertebra",
+      "the second lumbar vertebra"
+    ],
+    "vertebrae_L3": [
+      "lumbar vertebra L3",
+      "the lumbar vertebra L3",
+      "L3 vertebra",
+      "the third lumbar vertebra"
+    ],
+    "vertebrae_L4": [
+      "lumbar vertebra L4",
+      "the lumbar vertebra L4",
+      "L4 vertebra",
+      "the fourth lumbar vertebra"
+    ],
+    "vertebrae_L5": [
+      "lumbar vertebra L5",
+      "the lumbar vertebra L5",
+      "L5 vertebra",
+      "the fifth lumbar vertebra"
+    ],
+    "vertebrae_S1": [
+      "sacral vertebra S1",
+      "the sacral vertebra S1",
+      "S1 vertebra",
+      "the first sacral vertebra"
+    ],
+    "vertebrae_T1": [
+      "thoracic vertebra T1",
+      "the thoracic vertebra T1",
+      "T1 vertebra",
+      "the first thoracic vertebra"
+    ],
+    "vertebrae_T10": [
+      "thoracic vertebra T10",
+      "the thoracic vertebra T10",
+      "T10 vertebra",
+      "the tenth thoracic vertebra"
+    ],
+    "vertebrae_T11": [
+      "thoracic vertebra T11",
+      "the thoracic vertebra T11",
+      "T11 vertebra",
+      "the eleventh thoracic vertebra"
+    ],
+    "vertebrae_T12": [
+      "thoracic vertebra T12",
+      "the thoracic vertebra T12",
+      "T12 vertebra",
+      "the twelfth thoracic vertebra"
+    ],
+    "vertebrae_T2": [
+      "thoracic vertebra T2",
+      "the thoracic vertebra T2",
+      "T2 vertebra",
+      "the second thoracic vertebra"
+    ],
+    "vertebrae_T3": [
+      "thoracic vertebra T3",
+      "the thoracic vertebra T3",
+      "T3 vertebra",
+      "the third thoracic vertebra"
+    ],
+    "vertebrae_T4": [
+      "thoracic vertebra T4",
+      "the thoracic vertebra T4",
+      "T4 vertebra",
+      "the fourth thoracic vertebra"
+    ],
+    "vertebrae_T5": [
+      "thoracic vertebra T5",
+      "the thoracic vertebra T5",
+      "T5 vertebra",
+      "the fifth thoracic vertebra"
+    ],
+    "vertebrae_T6": [
+      "thoracic vertebra T6",
+      "the thoracic vertebra T6",
+      "T6 vertebra",
+      "the sixth thoracic vertebra"
+    ],
+    "vertebrae_T7": [
+      "thoracic vertebra T7",
+      "the thoracic vertebra T7",
+      "T7 vertebra",
+      "the seventh thoracic vertebra"
+    ],
+    "vertebrae_T8": [
+      "thoracic vertebra T8",
+      "the thoracic vertebra T8",
+      "T8 vertebra",
+      "the eighth thoracic vertebra"
+    ],
+    "vertebrae_T9": [
+      "thoracic vertebra T9",
+      "the thoracic vertebra T9",
+      "T9 vertebra",
+      "the ninth thoracic vertebra"
+    ]
+  }
+}

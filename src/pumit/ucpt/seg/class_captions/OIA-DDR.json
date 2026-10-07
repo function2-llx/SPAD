@@ -1,0 +1,23 @@
+{
+  "source": "OIA-DDR",
+  "classes": {
+    "ex": [
+      "retinal hard exudate",
+      "hard exudate"
+    ],
+    "he": [
+      "retinal hemorrhage",
+      "hemorrhage",
+      "retinal bleed"
+    ],
+    "ma": [
+      "retinal microaneurysm",
+      "microaneurysm"
+    ],
+    "se": [
+      "retinal soft exudate",
+      "cotton wool spot",
+      "soft exudate"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "source": "AtriaSeg2018",
+  "classes": {
+    "la_endocardium": [
+      "left atrial cavity",
+      "the left atrial cavity",
+      "left atrium cavity"
+    ]
+  }
+}

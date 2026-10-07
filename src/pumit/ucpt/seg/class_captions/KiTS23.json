@@ -1,0 +1,20 @@
+{
+  "source": "KiTS23",
+  "classes": {
+    "cyst": [
+      "kidney cyst",
+      "renal cyst",
+      "cystic lesion of the kidney",
+      "kidney cystic lesion"
+    ],
+    "kidney": [
+      "kidney",
+      "the kidney"
+    ],
+    "tumor": [
+      "kidney tumor",
+      "renal tumor",
+      "tumor"
+    ]
+  }
+}

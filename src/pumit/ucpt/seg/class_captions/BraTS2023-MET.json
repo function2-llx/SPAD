@@ -1,0 +1,23 @@
+{
+  "source": "BraTS2023-MET",
+  "classes": {
+    "ED": [
+      "brain metastasis peritumoral edema",
+      "peritumoral edema of brain metastasis",
+      "vasogenic edema around brain metastasis",
+      "metastasis-associated peritumoral edema"
+    ],
+    "ET": [
+      "enhancing brain metastasis region",
+      "enhancing brain metastasis",
+      "contrast-enhancing brain metastasis",
+      "enhancing metastatic tumor region"
+    ],
+    "NCR": [
+      "brain metastasis necrotic core",
+      "necrotic core of brain metastasis",
+      "brain metastasis necrosis",
+      "necrotic tumor core of brain metastasis"
+    ]
+  }
+}

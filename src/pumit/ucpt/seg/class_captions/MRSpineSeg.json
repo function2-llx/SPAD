@@ -1,0 +1,118 @@
+{
+  "source": "MRSpineSeg",
+  "classes": {
+    "L1": [
+      "lumbar vertebra L1",
+      "L1 vertebra",
+      "L1 vertebral body",
+      "the L1 vertebra"
+    ],
+    "L1/L2": [
+      "intervertebral disc L1-L2",
+      "L1-L2 disc",
+      "L1-L2 intervertebral disc",
+      "the L1-L2 disc"
+    ],
+    "L2": [
+      "lumbar vertebra L2",
+      "L2 vertebra",
+      "L2 vertebral body",
+      "the L2 vertebra"
+    ],
+    "L2/L3": [
+      "intervertebral disc L2-L3",
+      "L2-L3 disc",
+      "L2-L3 intervertebral disc",
+      "the L2-L3 disc"
+    ],
+    "L3": [
+      "lumbar vertebra L3",
+      "L3 vertebra",
+      "L3 vertebral body",
+      "the L3 vertebra"
+    ],
+    "L3/L4": [
+      "intervertebral disc L3-L4",
+      "L3-L4 disc",
+      "L3-L4 intervertebral disc",
+      "the L3-L4 disc"
+    ],
+    "L4": [
+      "lumbar vertebra L4",
+      "L4 vertebra",
+      "L4 vertebral body",
+      "the L4 vertebra"
+    ],
+    "L4/L5": [
+      "intervertebral disc L4-L5",
+      "L4-L5 disc",
+      "L4-L5 intervertebral disc",
+      "the L4-L5 disc"
+    ],
+    "L5": [
+      "lumbar vertebra L5",
+      "L5 vertebra",
+      "L5 vertebral body",
+      "the L5 vertebra"
+    ],
+    "L5/S": [
+      "intervertebral disc L5-S1",
+      "L5-S1 disc",
+      "L5-S1 intervertebral disc",
+      "the L5-S1 disc"
+    ],
+    "T10": [
+      "thoracic vertebra T10",
+      "T10 vertebra",
+      "T10 vertebral body",
+      "the T10 vertebra"
+    ],
+    "T10/T11": [
+      "intervertebral disc T10-T11",
+      "T10-T11 disc",
+      "T10-T11 intervertebral disc",
+      "the T10-T11 disc"
+    ],
+    "T11": [
+      "thoracic vertebra T11",
+      "T11 vertebra",
+      "T11 vertebral body",
+      "the T11 vertebra"
+    ],
+    "T11/T12": [
+      "intervertebral disc T11-T12",
+      "T11-T12 disc",
+      "T11-T12 intervertebral disc",
+      "the T11-T12 disc"
+    ],
+    "T12": [
+      "thoracic vertebra T12",
+      "T12 vertebra",
+      "T12 vertebral body",
+      "the T12 vertebra"
+    ],
+    "T12/L1": [
+      "intervertebral disc T12-L1",
+      "T12-L1 disc",
+      "T12-L1 intervertebral disc",
+      "the T12-L1 disc"
+    ],
+    "T9": [
+      "thoracic vertebra T9",
+      "T9 vertebra",
+      "T9 vertebral body",
+      "the T9 vertebra"
+    ],
+    "T9/T10": [
+      "intervertebral disc T9-T10",
+      "T9-T10 disc",
+      "T9-T10 intervertebral disc",
+      "the T9-T10 disc"
+    ],
+    "sacrum": [
+      "sacrum",
+      "sacral bone",
+      "the sacrum"
+    ]
+  }
+}

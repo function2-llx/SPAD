@@ -1,0 +1,23 @@
+{
+  "source": "CAMUS",
+  "classes": {
+    "LA": [
+      "left atrium",
+      "the left atrium",
+      "left atrial chamber",
+      "LA"
+    ],
+    "LV_endo": [
+      "left ventricle endocardium",
+      "left ventricular endocardium",
+      "LV endocardium",
+      "the left ventricle endocardium"
+    ],
+    "LV_epi": [
+      "left ventricle epicardium",
+      "left ventricular epicardium",
+      "LV epicardium",
+      "the left ventricle epicardium"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "ontology_status": "frozen",
+  "reference": "Dataset suite: MIC-DKFZ/MultiTalent@0bc7b2c32e31cb00008354f2420b65b85ef09578, excluding Task051 StructSeg2019 because no provenance-verifiable Task 3 archive was available at the experiment freeze",
+  "fold": 0,
+  "num_updates": 250000,
+  "datasets": {
+    "503": {
+      "source_task": "Task003_Liver",
+      "expected_num_training": 131,
+      "regions": ["liver", "tumor"]
+    },
+    "506": {
+      "source_task": "Task006_Lung",
+      "expected_num_training": 63,
+      "regions": ["lung_nodule"]
+    },
+    "507": {
+      "source_task": "Task007_Pancreas",
+      "expected_num_training": 281,
+      "regions": ["pancreas", "tumor"]
+    },
+    "508": {
+      "source_task": "Task008_HepaticVessel",
+      "expected_num_training": 303,
+      "regions": ["vessel", "tumor"]
+    },
+    "509": {
+      "source_task": "Task009_Spleen",
+      "expected_num_training": 41,
+      "regions": ["spleen"]
+    },
+    "510": {
+      "source_task": "Task010_Colon",
+      "expected_num_training": 126,
+      "regions": ["colon_cancer"]
+    },
+    "517": {
+      "source_task": "Task017_AbdominalOrganSegmentation",
+      "expected_num_training": 30,
+      "regions": [
+        "spleen",
+        "right_kidney",
+        "left_kidney",
+        "gallbladder",
+        "esophagus",
+        "liver",
+        "stomach",
+        "aorta",
+        "IVC",
+        "portal_vein",
+        "pancreas",
+        "right_adrenal",
+        "left_adrenal"
+      ]
+    },
+    "546": {
+      "source_task": "Task046_AbdOrgSegm2",
+      "expected_num_training": 72,
+      "split_policy": "multitalent_task046",
+      "regions": [
+        "spleen",
+        "kidney_left",
+        "gallbladder",
+        "esophagus",
+        "liver",
+        "stomach",
+        "pancreas",
+        "duodenum"
+      ]
+    },
+    "555": {
+      "source_task": "Task055_SegTHOR",
+      "expected_num_training": 40,
+      "regions": ["esophagus", "heart", "trachea", "aorta"]
+    },
+    "562": {
+      "source_task": "Task062_NIHPancreas",
+      "expected_num_training": 80,
+      "regions": ["pancreas"]
+    },
+    "564": {
+      "source_task": "Task064_KiTS_labelsFixed",
+      "expected_num_training": 210,
+      "regions": ["kidney", "tumor"]
+    },
+    "518": {
+      "source_task": "Task018_PelvicOrganSegmentation",
+      "expected_num_training": 30,
+      "regions": ["bladder", "uterus", "rectum", "small_bowel"]
+    }
+  },
+  "excluded_datasets": {
+    "551": {
+      "source_task": "Task051_StructSeg2019_Task3_Thoracic_OAR",
+      "expected_num_training": 50,
+      "regions": [
+        "left_lung",
+        "right_lung",
+        "heart",
+        "esophagus",
+        "bronchus",
+        "spinal_cord"
+      ],
+      "reason": "Official access remained pending and no complete provenance-verifiable Task 3 archive was available at the 2026-07-25 experiment freeze"
+    }
+  },
+  "excluded_cases": {
+    "546": {
+      "case_identifiers": ["PANCREAS_0025"],
+      "reason": "The corresponding NIH Pancreas image is unavailable, so this DenseVNet label-only case is excluded from Task046"
+    },
+    "562": {
+      "case_identifiers": ["Pancreas-CT_0025", "Pancreas-CT_0070"],
+      "reason": "These two NIH Pancreas cases were explicitly excluded from the active experiment before preprocessing"
+    }
+  },
+  "shared_regions": {}
+}

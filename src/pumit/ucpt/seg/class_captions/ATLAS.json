@@ -1,0 +1,10 @@
+{
+  "source": "ATLAS",
+  "classes": {
+    "stroke_lesion": [
+      "ischemic stroke lesion",
+      "ischemic lesion",
+      "stroke lesion"
+    ]
+  }
+}

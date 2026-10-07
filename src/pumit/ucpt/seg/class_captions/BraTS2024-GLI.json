@@ -1,0 +1,29 @@
+{
+  "source": "BraTS2024-GLI",
+  "classes": {
+    "ET": [
+      "brain enhancing tumor",
+      "enhancing brain tumor",
+      "contrast-enhancing brain tumor",
+      "enhancing tumor"
+    ],
+    "NETC": [
+      "brain non-enhancing tumor core",
+      "non-enhancing brain tumor core",
+      "brain non-enhancing solid tumor",
+      "non-enhancing tumor core"
+    ],
+    "RC": [
+      "brain resection cavity",
+      "brain surgical cavity",
+      "post-operative brain cavity",
+      "resection cavity"
+    ],
+    "SNFH": [
+      "brain non-enhancing FLAIR hyperintensity",
+      "non-enhancing brain FLAIR hyperintensity",
+      "brain peritumoral FLAIR hyperintensity",
+      "brain FLAIR hyperintensity"
+    ]
+  }
+}
